@@ -64,10 +64,12 @@ A useful shorthand is that Aaron likes jobs where the buttons **feel like they m
 
 #### Ninja
 
-- Possible comeback candidate, especially as Stormblood approaches and the Far East setting becomes more prominent.
+- **Level 90 via job boost** as of the start of Stormblood (`Beyond the Great Wall`).
+- Now an active evaluation candidate rather than merely a future possibility.
 - Strongly likes the Japanese/shinobi fantasy and close-combat style.
-- Main friction: mudra inputs historically felt like **not doing damage while setting up the attack**.
-- Recent enjoyment of GNB/MCH burst windows makes NIN worth another serious try.
+- Main historical friction: mudra inputs felt like **not doing damage while setting up the attack**.
+- Recent enjoyment of GNB/MCH burst windows makes NIN especially worth a serious current-version trial.
+- Do not assume the boost means NIN has become a favorite; Aaron has not yet given a post-boost gameplay verdict.
 
 ### Physical Ranged
 
