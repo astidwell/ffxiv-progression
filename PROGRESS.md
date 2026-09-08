@@ -4,13 +4,13 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 
 ## Main Scenario
 
-- **Current era:** Late post-Heavensward, approaching Stormblood
-- **Latest completed MSQ:** `An Ending to Mark a New Beginning`
-- **Next MSQ:** `Tidings from Gyr Abania`
-- **Patch status:** Patch 3.4 complete; entering Patch 3.5 / the final Heavensward post-patch stretch
+- **Current era:** Stormblood (4.0), opening stretch
+- **Current MSQ:** `Beyond the Great Wall`
+- **Patch status:** Stormblood 4.0 has begun
 - **Base Heavensward (3.0):** Complete
 - **Dragonsong War resolution:** Complete
-- **Stormblood:** Not started yet
+- **Post-Heavensward:** Complete
+- **Stormblood:** Started
 
 ## Major Duties / Side Content
 
@@ -55,7 +55,8 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 
 - Heavensward was ultimately very enjoyable despite a slower start.
 - Azys Lla was considered under-utilized; Aaron especially liked its sudden Allagan techno-fantasy vibe and wished the expansion did more with it.
-- The transition toward Stormblood and the Far East is especially appealing because of interest in SAM/NIN and Japanese-themed regions.
+- Aaron has now entered Stormblood proper at `Beyond the Great Wall`.
+- The Far East side of Stormblood is especially appealing because of interest in SAM/NIN and Japanese-themed regions.
 
 ## Update Rules
 
