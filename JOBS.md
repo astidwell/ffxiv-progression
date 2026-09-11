@@ -2,6 +2,42 @@
 
 This file tracks Aaron's evolving job preferences, playstyle, and current contenders. The newest comments in conversation override anything written here until the file is explicitly updated.
 
+## Current Combat Job Levels
+
+Snapshot at Stormblood opening (`Beyond the Great Wall`):
+
+### Tanks
+- Paladin — **56**
+- Marauder — **10**
+- Dark Knight — **63**
+- Gunbreaker — **63**
+
+### Healers
+- Conjurer — **9**
+- Scholar — **60**
+- Astrologian — **61**
+- Sage — **0**
+
+### Melee DPS
+- Monk — **35**
+- Lancer — **0**
+- Ninja — **90** (job boost)
+- Samurai — **62**
+- Reaper — **0**
+- Viper — **0**
+
+### Physical Ranged DPS
+- Archer — **0**
+- Machinist — **64**
+- Dancer — **60**
+
+### Magical Ranged DPS
+- Thaumaturge — **4**
+- Summoner — **60**
+- Red Mage — **50**
+- Pictomancer — **0**
+- Blue Mage — **0**
+
 ## Core Playstyle
 
 Aaron strongly favors:
@@ -29,6 +65,7 @@ A useful shorthand is that Aaron likes jobs where the buttons **feel like they m
 #### Dark Knight
 
 - Major favorite and long-term main contender.
+- Current level: **63**.
 - Enjoys the heavy greatsword feel, strong job fantasy, and the sense that every attack has weight.
 - Described tanking as feeling like **"DPS with better defense."**
 - DRK has worked especially well as an MSQ job.
@@ -36,29 +73,34 @@ A useful shorthand is that Aaron likes jobs where the buttons **feel like they m
 #### Gunbreaker
 
 - Major favorite after initially getting a weaker first impression.
+- Current level: **63**.
 - Current appeal is the **DPS-like burst-window structure**, cartridge flow, and busy technical feel.
 - Aaron has compared its complexity favorably to MCH.
 - Wicked Talon / later burst-style attacks strongly fit Aaron's preference for obvious payoff.
 - DRK and GNB are currently the two preferred tanks.
+- Recent playtime has heavily favored **GNB + MCH**.
 
 #### Warrior
 
 - Historically a favorite tank on the older character.
+- Current class level: **Marauder 10**; Warrior is not currently a leveled contender on this character.
 - Strong appeal: **Fell Cleave**, extreme self-sustain, simple aggression, and the "unga bunga" power fantasy.
-- Planned for another serious leveling run after current PLD experimentation / between patch arcs.
+- Planned for another serious leveling run later.
 
 #### Paladin
 
 - Current experiment rather than a favorite.
-- Early GLA/PLD has felt **slow and boring**; Aaron was around level 36 when last explicitly reported.
+- Current level: **56**.
+- Early GLA/PLD felt **slow and boring**.
 - Later holy-sword / giant-radiant-blade visuals and BG3-style Divine Smite fantasy renewed motivation to continue.
-- Goal was to push it to level 60 during downtime and judge it more fairly there.
+- Now close enough to level 60 to judge the job more fairly.
 
 ### Melee DPS
 
 #### Samurai
 
 - Major favorite and one of the standards against which other jobs are judged.
+- Current level: **62**.
 - Core appeal: close combat, constant contact, Sen buildup, Midare payoff, excellent sound/animation weight.
 - Aaron's recurring summary: **"SAM just fucks."**
 
@@ -76,13 +118,16 @@ A useful shorthand is that Aaron likes jobs where the buttons **feel like they m
 #### Machinist
 
 - Rapidly became a major favorite.
+- Current level: **64**.
 - **Drill** was the turning point; Reassemble + Drill is especially satisfying.
 - Likes the job's industrial, high-impact attacks and burst-window management.
 - Often plays MCH in the **midfield**, reflecting a general preference for proximity even on ranged jobs.
 - Current sentiment is effectively: **MCH kinda fucks now.**
+- Recent playtime has heavily favored **MCH + GNB**.
 
 #### Dancer
 
+- Current level: **60**.
 - Initially felt too busy when introduced with many abilities at once.
 - Felt much better when played synced at a sensible level.
 - Positive, but currently behind MCH in physical-ranged preference.
@@ -91,18 +136,21 @@ A useful shorthand is that Aaron likes jobs where the buttons **feel like they m
 
 #### Scholar
 
+- Current level: **60**.
 - Established favorite healer.
 - Enjoys proactive shields, mitigation, planning, and tactical payoff.
 - Scratches an "engineer" / encounter-solving itch.
 
 #### Astrologian
 
+- Current level: **61**.
 - Established favorite healer.
 - Enjoys HoTs, buffs, dynamic healing, and clutch recovery situations.
 - Healing is memorable because messy pulls create stories rather than just rotations.
 
 #### Sage
 
+- Current level: **0**.
 - Major anticipated future contender.
 - Expected appeal: aggressive barrier healing, mobility, lasers, planning, and a more active presentation of the things Aaron enjoys about SCH.
 
@@ -116,14 +164,16 @@ A useful shorthand is that Aaron likes jobs where the buttons **feel like they m
 
 ### Red Mage
 
+- Current level: **50**.
 - Did not click.
 - Casting itself was not the main problem.
 - Black/white mana balancing was not compelling.
 - Melee combo was the favorite part.
 - Main criticism was weak audiovisual impact: spells felt like **"throwing pixie dust."**
 
-### Black Mage
+### Black Mage / Thaumaturge
 
+- Current class level: **Thaumaturge 4**.
 - Early experience felt boring.
 - Later BLM may still theoretically fit the desire for heavy spell impact, but caster gameplay is currently less natural than melee/tank/MCH play.
 
@@ -131,7 +181,8 @@ A useful shorthand is that Aaron likes jobs where the buttons **feel like they m
 
 - Tanking has become a major focus; Aaron spent several recent play sessions mostly tanking.
 - **DRK + GNB** currently form the preferred tank pair.
-- WAR is the likely "immortal unga bunga" alternate.
+- **GNB + MCH** have dominated the most recent playtime, suggesting a strong preference for structured, mechanical burst loops with obvious payoff.
+- WAR is the likely "immortal unga bunga" alternate when leveled again.
 - PLD is being given a fair trial to see whether its later holy-knight identity overcomes the dull early levels.
 - DPS is often useful as a low-responsibility way to learn unfamiliar fights before tanking them.
 - Healing remains appealing for its improvisational / recovery gameplay even though tanks have recently dominated playtime.
