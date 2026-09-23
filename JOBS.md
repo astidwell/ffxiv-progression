@@ -8,7 +8,7 @@ Snapshot at Stormblood opening (`Beyond the Great Wall`):
 
 ### Tanks
 - Paladin — **56**
-- Marauder — **10**
+- Marauder — **15**
 - Dark Knight — **63**
 - Gunbreaker — **63**
 
@@ -83,9 +83,9 @@ A useful shorthand is that Aaron likes jobs where the buttons **feel like they m
 #### Warrior
 
 - Historically a favorite tank on the older character.
-- Current class level: **Marauder 10**; Warrior is not currently a leveled contender on this character.
+- Current class level: **Marauder 15**; Warrior is not yet unlocked on this character.
 - Strong appeal: **Fell Cleave**, extreme self-sustain, simple aggression, and the "unga bunga" power fantasy.
-- Planned for another serious leveling run later.
+- Marauder has now reached dungeon-level territory and is actively being leveled toward Warrior.
 
 #### Paladin
 
