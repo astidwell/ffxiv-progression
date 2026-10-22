@@ -12,6 +12,8 @@ At the beginning of a new conversation, or whenever current project context is m
 2. **`PROGRESS.md`** — current MSQ position, completed/unlocked content, gearing milestones, housing, and other progression state.
 3. **`JOBS.md`** — evolving job preferences, favorites, playstyle observations, and current role contenders.
 
+For progression check-ins and pace/catch-up questions, also read **`PROGRESSION_LOG.md`**, the chronological checkpoint history.
+
 If the current conversation conflicts with repository state, **the newest information Aaron gives in conversation wins** for the current answer.
 
 Do not ask Aaron to repeat information that is already available in these files.
@@ -194,6 +196,8 @@ update the appropriate file in `astidwell/ffxiv-progression`:
 - Job preferences, role opinions, favorites, playstyle → **`JOBS.md`**
 
 Do **not** modify GitHub merely because Aaron casually mentions something. Only write to the repository when he asks to save, log, document, record, or update it.
+
+**Standing authorization (2026-10-22):** Aaron asked to start a progression log and update it whenever he intentionally checks in. Those progression check-ins authorize appending to `PROGRESSION_LOG.md` and synchronizing relevant state in `PROGRESS.md` / `JOBS.md`, without a repeated save request. Use America/Chicago timestamps and distinguish recording time from message time when necessary. Do not equate elapsed calendar time with active playtime. See the log for forecast rules.
 
 ## Communication style
 
