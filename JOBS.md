@@ -4,13 +4,13 @@ This file tracks Aaron's evolving job preferences, playstyle, and current conten
 
 ## Current Combat Job Levels
 
-Snapshot at Stormblood opening (`Beyond the Great Wall`):
+Snapshot from Aaron's character screen on **2026-10-22**, at the offered Stormblood MSQ `Where the Streets Are Paved with Koban` (level 61):
 
 ### Tanks
-- Paladin — **56**
-- Marauder — **15**
+- Paladin — **63**
+- Warrior — **57**
 - Dark Knight — **63**
-- Gunbreaker — **63**
+- Gunbreaker — **65**
 
 ### Healers
 - Conjurer — **9**
@@ -22,13 +22,14 @@ Snapshot at Stormblood opening (`Beyond the Great Wall`):
 - Monk — **35**
 - Lancer — **0**
 - Ninja — **90** (job boost)
-- Samurai — **62**
+- Samurai — **63**
 - Reaper — **0**
 - Viper — **0**
+- Beastmaster — **0** (as displayed in the supplied character screen)
 
 ### Physical Ranged DPS
 - Archer — **0**
-- Machinist — **64**
+- Machinist — **65**
 - Dancer — **60**
 
 ### Magical Ranged DPS
@@ -73,7 +74,7 @@ A useful shorthand is that Aaron likes jobs where the buttons **feel like they m
 #### Gunbreaker
 
 - Major favorite after initially getting a weaker first impression.
-- Current level: **63**.
+- Current level: **65**.
 - Current appeal is the **DPS-like burst-window structure**, cartridge flow, and busy technical feel.
 - Aaron has compared its complexity favorably to MCH.
 - Wicked Talon / later burst-style attacks strongly fit Aaron's preference for obvious payoff.
@@ -83,24 +84,24 @@ A useful shorthand is that Aaron likes jobs where the buttons **feel like they m
 #### Warrior
 
 - Historically a favorite tank on the older character.
-- Current class level: **Marauder 15**; Warrior is not yet unlocked on this character.
+- Current job level: **Warrior 57**; Warrior is now unlocked on this character.
 - Strong appeal: **Fell Cleave**, extreme self-sustain, simple aggression, and the "unga bunga" power fantasy.
-- Marauder has now reached dungeon-level territory and is actively being leveled toward Warrior.
+- Progressed from Marauder 15 to Warrior 57 by the 2026-10-22 snapshot; no new gameplay preference verdict was supplied.
 
 #### Paladin
 
 - Current experiment rather than a favorite.
-- Current level: **56**.
+- Current level: **63**.
 - Early GLA/PLD felt **slow and boring**.
 - Later holy-sword / giant-radiant-blade visuals and BG3-style Divine Smite fantasy renewed motivation to continue.
-- Now close enough to level 60 to judge the job more fairly.
+- Now level 63; no updated gameplay verdict was supplied with the latest level snapshot.
 
 ### Melee DPS
 
 #### Samurai
 
 - Major favorite and one of the standards against which other jobs are judged.
-- Current level: **62**.
+- Current level: **63**.
 - Core appeal: close combat, constant contact, Sen buildup, Midare payoff, excellent sound/animation weight.
 - Aaron's recurring summary: **"SAM just fucks."**
 
@@ -118,7 +119,7 @@ A useful shorthand is that Aaron likes jobs where the buttons **feel like they m
 #### Machinist
 
 - Rapidly became a major favorite.
-- Current level: **64**.
+- Current level: **65**.
 - **Drill** was the turning point; Reassemble + Drill is especially satisfying.
 - Likes the job's industrial, high-impact attacks and burst-window management.
 - Often plays MCH in the **midfield**, reflecting a general preference for proximity even on ranged jobs.
