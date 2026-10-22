@@ -4,8 +4,9 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 
 ## Main Scenario
 
-- **Current era:** Stormblood (4.0), opening stretch
-- **Current MSQ:** `Beyond the Great Wall`
+- **Current era:** Stormblood (4.0), early Far East / Kugane stretch
+- **Current MSQ:** `Where the Streets Are Paved with Koban` (level 61; shown at the quest acceptance screen, not yet confirmed accepted/completed)
+- **Last snapshot:** 2026-10-22, supplied character/quest screenshot
 - **Patch status:** Stormblood 4.0 has begun
 - **Base Heavensward (3.0):** Complete
 - **Dragonsong War resolution:** Complete
@@ -35,6 +36,7 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 - **SAM** was the first job geared at level 60.
 - **DRK** is the next priority for i270 tank gear.
 - **MCH** follows after DRK when Poetics allow.
+- **2026-10-22 gear snapshot:** GNB level 65, equipped average item level **270**. Exact equipped gear pieces/set were not confirmed.
 - Old Alexander token gear is primarily glamour/legacy gear rather than progression gear.
 
 ## Housing / Lifestyle
@@ -55,7 +57,7 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 
 - Heavensward was ultimately very enjoyable despite a slower start.
 - Azys Lla was considered under-utilized; Aaron especially liked its sudden Allagan techno-fantasy vibe and wished the expansion did more with it.
-- Aaron has now entered Stormblood proper at `Beyond the Great Wall`.
+- Aaron has reached the early Far East / Kugane stretch of Stormblood; current offered MSQ is `Where the Streets Are Paved with Koban` (level 61).
 - The Far East side of Stormblood is especially appealing because of interest in SAM/NIN and Japanese-themed regions.
 
 ## Update Rules
