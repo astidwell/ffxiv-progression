@@ -60,8 +60,15 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 - Aaron has reached the early Far East / Kugane stretch of Stormblood; current offered MSQ is `Where the Streets Are Paved with Koban` (level 61).
 - The Far East side of Stormblood is especially appealing because of interest in SAM/NIN and Japanese-themed regions.
 
+## Progression Check-ins
+
+- **Log:** `PROGRESSION_LOG.md`, started 2026-10-22; timestamps use America/Chicago.
+- **Goal:** Catch up for Evercold in January 2027; calibrate the forecast from periodic check-ins.
+- **Baseline:** Kugane, offered MSQ `Where the Streets Are Paved with Koban`; GNB 65 / i270. No measured active-playtime rate yet.
+- **Latest reaction:** Story is picking up, and landing in Kugane makes it feel fresh; excited to continue.
+
 ## Update Rules
 
 When Aaron gives a new MSQ quest, completed duty, gear milestone, housing unlock, or similar progression update, treat the newest conversation information as authoritative.
 
-Only write changes back to this file when Aaron explicitly asks to **save, log, record, document, or update** the FFXIV project/GitHub.
+Only write changes back to this file when Aaron explicitly asks to **save, log, record, document, or update** the FFXIV project/GitHub, or provides an intentional progression check-in under the standing authorization recorded in README.md.
