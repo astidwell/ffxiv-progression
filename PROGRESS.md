@@ -5,8 +5,10 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 ## Main Scenario
 
 - **Current era:** Stormblood (4.0), early Far East / Kugane stretch
-- **Current MSQ:** `Where the Streets Are Paved with Koban` (level 61; shown at the quest acceptance screen, not yet confirmed accepted/completed)
-- **Last snapshot:** 2026-10-22, supplied character/quest screenshot
+- **Current MSQ:** `A Good Samurai Is Hard to Find` (level 61; reported current quest, completion not claimed)
+- **Last progression check-in:** 2026-10-23, recorded at 10:11 CDT (America/Chicago; recording time)
+- **Cumulative playtime:** 17 days, 11 hours, 11 minutes (419 hours, 11 minutes); first playtime baseline, reported 2026-10-23.
+- **Last character/gear screenshot:** 2026-10-22
 - **Patch status:** Stormblood 4.0 has begun
 - **Base Heavensward (3.0):** Complete
 - **Dragonsong War resolution:** Complete
@@ -57,7 +59,7 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 
 - Heavensward was ultimately very enjoyable despite a slower start.
 - Azys Lla was considered under-utilized; Aaron especially liked its sudden Allagan techno-fantasy vibe and wished the expansion did more with it.
-- Aaron has reached the early Far East / Kugane stretch of Stormblood; current offered MSQ is `Where the Streets Are Paved with Koban` (level 61).
+- Aaron is in the early Far East / Kugane stretch of Stormblood; current MSQ is `A Good Samurai Is Hard to Find` (level 61), reported 2026-10-23.
 - The Far East side of Stormblood is especially appealing because of interest in SAM/NIN and Japanese-themed regions.
 
 ## Progression Check-ins
@@ -65,6 +67,7 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 - **Log:** `PROGRESSION_LOG.md`, started 2026-10-22; timestamps use America/Chicago.
 - **Goal:** Catch up for Evercold in January 2027; calibrate the forecast from periodic check-ins.
 - **Baseline:** Kugane, offered MSQ `Where the Streets Are Paved with Koban`; GNB 65 / i270. No measured active-playtime rate yet.
+- **Latest checkpoint:** 2026-10-23 — `A Good Samurai Is Hard to Find`; cumulative playtime 419h 11m. A second playtime reading is needed to measure a logged-in-time delta.
 - **Latest reaction:** Story is picking up, and landing in Kugane makes it feel fresh; excited to continue.
 
 ## Update Rules
