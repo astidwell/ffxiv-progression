@@ -43,7 +43,12 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 
 ## Housing / Lifestyle
 
+- **Home World:** Exodus (Primal).
 - **Empyreum apartment:** Acquired in Ishgard.
+- **Personal housing lottery:** Entered for a **small in Shirogane, Ward 15, Plot 23**, reported 2026-10-23 (recorded 10:42 CDT). Entry is confirmed by Aaron's report; ownership/win is not confirmed.
+- **Housing funds:** Aaron reports the deposit used nearly all his gil; exact deposit and remaining balance not supplied. Reserve **450,000 gil** for a small-house construction permit if successful.
+- **Lottery screenshot:** Tracker showed 1 ticket, scanned 11 minutes earlier; this is not a final entrant count or proof of Aaron's entry number.
+- **Expected results/claim window:** 2026-10-28 10:00 CDT to 2026-11-01 09:00 CST (America/Chicago; DST changes November 1). Calendar-based expectation; confirm the in-game deadline.
 - **Grand Company:** Reached the rank required to purchase an apartment (Second Lieutenant or above).
 - **Gold Saucer:** Recently visited for the first time; major side-content rabbit hole discovered.
 - Current housing interest includes decorating, useful furnishings, glamour-adjacent utility, and creating a strong apartment aesthetic.
