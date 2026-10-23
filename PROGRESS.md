@@ -4,10 +4,10 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 
 ## Main Scenario
 
-- **Current era:** Stormblood (4.0), early Far East / Kugane stretch
-- **Current MSQ:** `A Good Samurai Is Hard to Find` (level 61; reported current quest, completion not claimed)
-- **Last progression check-in:** 2026-10-23, recorded at 10:11 CDT (America/Chicago; recording time)
-- **Cumulative playtime:** 17 days, 11 hours, 11 minutes (419 hours, 11 minutes); first playtime baseline, reported 2026-10-23.
+- **Current era:** Stormblood (4.0), early Far East / Ruby Sea stretch
+- **Current MSQ:** `Boys with Boats` (level 62; acceptance confirmed in chat screenshot, not completed)
+- **Last progression check-in:** 2026-10-23, recorded at 11:47 CDT (America/Chicago; recording time)
+- **Cumulative playtime:** 17 days, 12 hours, 46 minutes (420 hours, 46 minutes), screenshot 2026-10-23. Increase since previous reading: **1h 35m logged in**, including side content / possible AFK time.
 - **Last character/gear screenshot:** 2026-10-22
 - **Patch status:** Stormblood 4.0 has begun
 - **Base Heavensward (3.0):** Complete
@@ -20,6 +20,7 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 ### Completed
 
 - **Alexander normal raid series:** Complete
+- **Amdapor Keep:** Clear confirmed in 2026-10-23 chat screenshot; two player commendations received. Job used for the duty not established.
 - **Binding Coil of Bahamut:** Unlocked
 
 ### Known Heavensward cleanup still outstanding
@@ -64,7 +65,7 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 
 - Heavensward was ultimately very enjoyable despite a slower start.
 - Azys Lla was considered under-utilized; Aaron especially liked its sudden Allagan techno-fantasy vibe and wished the expansion did more with it.
-- Aaron is in the early Far East / Kugane stretch of Stormblood; current MSQ is `A Good Samurai Is Hard to Find` (level 61), reported 2026-10-23.
+- Aaron has advanced into the early Ruby Sea stretch of Stormblood; `Boys with Boats` (level 62) is accepted as of the 2026-10-23 11:47 CDT recording.
 - The Far East side of Stormblood is especially appealing because of interest in SAM/NIN and Japanese-themed regions.
 
 ## Progression Check-ins
@@ -72,7 +73,7 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 - **Log:** `PROGRESSION_LOG.md`, started 2026-10-22; timestamps use America/Chicago.
 - **Goal:** Catch up for Evercold in January 2027; calibrate the forecast from periodic check-ins.
 - **Baseline:** Kugane, offered MSQ `Where the Streets Are Paved with Koban`; GNB 65 / i270. No measured active-playtime rate yet.
-- **Latest checkpoint:** 2026-10-23 — `A Good Samurai Is Hard to Find`; cumulative playtime 419h 11m. A second playtime reading is needed to measure a logged-in-time delta.
+- **Latest checkpoint:** 2026-10-23, recorded 11:47 CDT — `Boys with Boats` accepted; cumulative playtime 420h 46m. **+1h 35m logged in** since `A Good Samurai Is Hard to Find`, with an Amdapor Keep clear also shown. Too little isolated MSQ playtime to recalibrate the January forecast.
 - **Latest reaction:** Story is picking up, and landing in Kugane makes it feel fresh; excited to continue.
 
 ## Update Rules
