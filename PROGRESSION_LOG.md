@@ -44,3 +44,13 @@ This chronological log tracks Aaron's reported progression toward catching up fo
 - **Status:** Entered, outcome pending; do not mark house owned.
 - **Expected claim window:** October 28 at 10:00 AM CDT through November 1 at 9:00 AM CST, based on the published cycle calendar; verify in game. DST ends November 1.
 - **MSQ/playtime:** No new reading; retain the earlier checkpoint and 419h 11m baseline.
+
+## 2026-10-23 — Boys with Boats accepted
+
+- **Recorded at:** 2026-10-23 11:47 CDT (UTC−05:00; recording time, exact message timestamp unavailable).
+- **MSQ checkpoint:** `Boys with Boats`, level 62, base Stormblood (4.0), early Ruby Sea stretch. Chat explicitly confirms accepted; completion not claimed.
+- **Cumulative playtime:** **17 days, 12 hours, 46 minutes** = **420 hours, 46 minutes** = **25,246 minutes**.
+- **Delta from previous playtime reading:** **95 minutes (1h 35m)** logged in since 419h 11m at `A Good Samurai Is Hard to Find`.
+- **Side content:** Screenshot confirms Amdapor Keep ended and two player commendations received. It shows a subsequent switch to Gunbreaker, so the job used for that clear is not established.
+- **Current job:** Gunbreaker equipped after the duty. No new legible job level or item level established; last confirmed GNB 65 / i270 remains dated 2026-10-22.
+- **Pace interpretation:** MSQ advanced alongside side content. The 95-minute delta includes all logged-in activity and possible AFK time; do not treat it as pure MSQ duration. Keep January forecast uncalibrated pending more checkpoints.
