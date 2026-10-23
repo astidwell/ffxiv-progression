@@ -9,6 +9,7 @@ This chronological log tracks Aaron's reported progression toward catching up fo
 - Record offered, accepted, in-progress, and completed quest status accurately; a screenshot at an acceptance screen does not establish completion.
 - Compare checkpoints to estimate progress per calendar week and revise a tentative catch-up forecast after enough observations. Quest lengths vary; quest count alone is not a precise time estimate.
 - Calendar time between check-ins is not active playtime. Record session duration only if Aaron supplies it; otherwise leave playtime unknown.
+- Track cumulative `/playtime` readings when supplied and calculate differences between readings. These differences measure logged-in time and may include AFK time, side content, and job leveling; do not label them focused MSQ hours.
 - Original catch-up discussion used a rough, uncalibrated estimate of 265–350 remaining story hours. It is a planning assumption, not Aaron's measured pace. January 1 is a conservative planning target, not a confirmed release date.
 - GNB was Byte's recommendation for a focused run, not a confirmed permanent-main decision.
 - Preserve spoiler policy. Ordinary casual comments outside an intentional check-in still follow README's explicit-save rule.
@@ -23,3 +24,12 @@ This chronological log tracks Aaron's reported progression toward catching up fo
 - **Playtime:** Unknown; baseline only, no measured progression rate yet.
 - **Reaction:** Story is picking up; arriving in Kugane makes the game feel fresh. Excited by the remaining story.
 - **Goal:** Work toward catching up for Evercold in January 2027, with periodic check-ins to calibrate pace.
+
+## 2026-10-23 — First cumulative playtime reading
+
+- **Recorded at:** 2026-10-23 10:11 CDT (UTC−05:00; recording time, exact message timestamp unavailable).
+- **MSQ checkpoint:** `A Good Samurai Is Hard to Find`, level 61, base Stormblood (4.0), Kugane. Aaron reports being at this quest; completion not claimed.
+- **Cumulative playtime:** **17 days, 11 hours, 11 minutes** = **419 hours, 11 minutes** = **25,151 minutes**.
+- **Playtime delta:** Not yet calculable; previous checkpoint had no playtime reading. Use this as the first cumulative playtime baseline.
+- **Job / gear:** No new reading supplied; last confirmed snapshot remains GNB 65 / i270 on 2026-10-22.
+- **Forecast:** Not recalibrated from this single playtime reading. Future readings paired with MSQ checkpoints will establish logged-in-time progression pace; AFK time and side activities may contribute.
