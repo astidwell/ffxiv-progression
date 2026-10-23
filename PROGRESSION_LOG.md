@@ -33,3 +33,14 @@ This chronological log tracks Aaron's reported progression toward catching up fo
 - **Playtime delta:** Not yet calculable; previous checkpoint had no playtime reading. Use this as the first cumulative playtime baseline.
 - **Job / gear:** No new reading supplied; last confirmed snapshot remains GNB 65 / i270 on 2026-10-22.
 - **Forecast:** Not recalibrated from this single playtime reading. Future readings paired with MSQ checkpoints will establish logged-in-time progression pace; AFK time and side activities may contribute.
+
+## 2026-10-23 — Shirogane housing lottery entry
+
+- **Recorded at:** 2026-10-23 10:42 CDT (UTC−05:00; recording time, exact message timestamp unavailable).
+- **Home World:** Exodus (Primal).
+- **Housing milestone:** Aaron reports entering the personal housing lottery for **Shirogane, Ward 15, Plot 23 — Small**.
+- **Evidence:** User report plus tracker screenshot identifying district, ward, plot, and size. Tracker shows 1 ticket and was scanned 11 minutes earlier; not a final count or confirmation of the user's entry number.
+- **Gil:** Deposit used nearly all available gil; exact amount/balance not supplied. Small-house construction permit requires a further 450,000 gil if successful.
+- **Status:** Entered, outcome pending; do not mark house owned.
+- **Expected claim window:** October 28 at 10:00 AM CDT through November 1 at 9:00 AM CST, based on the published cycle calendar; verify in game. DST ends November 1.
+- **MSQ/playtime:** No new reading; retain the earlier checkpoint and 419h 11m baseline.
