@@ -58,9 +58,9 @@ This chronological log tracks Aaron's reported progression toward catching up fo
 ## 2026-10-24 — Ruby Sea and Shisui clear
 
 - **Recorded at:** Approximately 2026-10-24 09:52 CDT (UTC−05:00; recording time; exact message timestamp unavailable).
-- **MSQ checkpoint:** `A Part of Your World`, level 63, Stormblood 4.0 / Ruby Sea; visible in quest journal. Completion not established by screenshot.
+- **MSQ checkpoint:** `Breaking and Delivering`, level 63, Stormblood 4.0 / Ruby Sea; Aaron explicitly clarified this is the current MSQ. `A Part of Your World` is a separate quest in the journal. Completion not claimed.
 - **Duty milestone:** Aaron explicitly confirms clearing **Shisui of the Violet Tides**.
 - **Cumulative playtime:** **17 days, 19 hours, 19 minutes** = **427 hours, 19 minutes** = **25,639 minutes**.
 - **Delta since previous reading:** **393 minutes (6h 33m)** logged in since the 2026-10-23 reading of 420h 46m. This may include AFK time and side content; not an isolated MSQ session measurement.
-- **Progress:** Advanced from accepted `Boys with Boats` (level 62) to the `A Part of Your World` level 63 journal entry, alongside a Shisui clear. No new job level or gear reading confirmed.
+- **Progress:** Advanced from accepted `Boys with Boats` (level 62) to `Breaking and Delivering` (level 63), alongside a Shisui clear. No new job level or gear reading confirmed.
 - **Forecast:** Continue collecting checkpoints before deriving a reliable MSQ-hours-per-quest rate.
