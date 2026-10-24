@@ -5,9 +5,9 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 ## Main Scenario
 
 - **Current era:** Stormblood (4.0), early Far East / Ruby Sea stretch
-- **Current MSQ:** `Boys with Boats` (level 62; acceptance confirmed in chat screenshot, not completed)
-- **Last progression check-in:** 2026-10-23, recorded at 11:47 CDT (America/Chicago; recording time)
-- **Cumulative playtime:** 17 days, 12 hours, 46 minutes (420 hours, 46 minutes), screenshot 2026-10-23. Increase since previous reading: **1h 35m logged in**, including side content / possible AFK time.
+- **Current MSQ:** `A Part of Your World` (level 63; shown in quest journal, completion not confirmed)
+- **Last progression check-in:** 2026-10-24, recorded at approximately 09:52 CDT (America/Chicago; recording time)
+- **Cumulative playtime:** 17 days, 19 hours, 19 minutes (427 hours, 19 minutes), screenshot 2026-10-24. Increase since previous reading: **6h 33m logged in**, including side content / possible AFK time.
 - **Last character/gear screenshot:** 2026-10-22
 - **Patch status:** Stormblood 4.0 has begun
 - **Base Heavensward (3.0):** Complete
@@ -20,6 +20,7 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 ### Completed
 
 - **Alexander normal raid series:** Complete
+- **Shisui of the Violet Tides:** Completed, reported 2026-10-24.
 - **Amdapor Keep:** Clear confirmed in 2026-10-23 chat screenshot; two player commendations received. Job used for the duty not established.
 - **Binding Coil of Bahamut:** Unlocked
 
@@ -65,7 +66,7 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 
 - Heavensward was ultimately very enjoyable despite a slower start.
 - Azys Lla was considered under-utilized; Aaron especially liked its sudden Allagan techno-fantasy vibe and wished the expansion did more with it.
-- Aaron has advanced into the early Ruby Sea stretch of Stormblood; `Boys with Boats` (level 62) is accepted as of the 2026-10-23 11:47 CDT recording.
+- Aaron has advanced into the early Ruby Sea stretch of Stormblood; `A Part of Your World` (level 63) appears in the quest journal as of 2026-10-24; completion unconfirmed. Shisui of the Violet Tides also cleared.
 - The Far East side of Stormblood is especially appealing because of interest in SAM/NIN and Japanese-themed regions.
 
 ## Progression Check-ins
@@ -73,7 +74,7 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 - **Log:** `PROGRESSION_LOG.md`, started 2026-10-22; timestamps use America/Chicago.
 - **Goal:** Catch up for Evercold in January 2027; calibrate the forecast from periodic check-ins.
 - **Baseline:** Kugane, offered MSQ `Where the Streets Are Paved with Koban`; GNB 65 / i270. No measured active-playtime rate yet.
-- **Latest checkpoint:** 2026-10-23, recorded 11:47 CDT — `Boys with Boats` accepted; cumulative playtime 420h 46m. **+1h 35m logged in** since `A Good Samurai Is Hard to Find`, with an Amdapor Keep clear also shown. Too little isolated MSQ playtime to recalibrate the January forecast.
+- **Latest checkpoint:** 2026-10-24, recorded approximately 09:52 CDT — `A Part of Your World` shown in journal (level 63); Shisui cleared; cumulative playtime 427h 19m. **+6h 33m logged in** since the `Boys with Boats` checkpoint. AFK and side activity may contribute; pace remains an approximate indication, not pure MSQ hours.
 - **Latest reaction:** Story is picking up, and landing in Kugane makes it feel fresh; excited to continue.
 
 ## Update Rules
