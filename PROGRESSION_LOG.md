@@ -54,3 +54,13 @@ This chronological log tracks Aaron's reported progression toward catching up fo
 - **Side content:** Screenshot confirms Amdapor Keep ended and two player commendations received. It shows a subsequent switch to Gunbreaker, so the job used for that clear is not established.
 - **Current job:** Gunbreaker equipped after the duty. No new legible job level or item level established; last confirmed GNB 65 / i270 remains dated 2026-10-22.
 - **Pace interpretation:** MSQ advanced alongside side content. The 95-minute delta includes all logged-in activity and possible AFK time; do not treat it as pure MSQ duration. Keep January forecast uncalibrated pending more checkpoints.
+
+## 2026-10-24 — Ruby Sea and Shisui clear
+
+- **Recorded at:** Approximately 2026-10-24 09:52 CDT (UTC−05:00; recording time; exact message timestamp unavailable).
+- **MSQ checkpoint:** `A Part of Your World`, level 63, Stormblood 4.0 / Ruby Sea; visible in quest journal. Completion not established by screenshot.
+- **Duty milestone:** Aaron explicitly confirms clearing **Shisui of the Violet Tides**.
+- **Cumulative playtime:** **17 days, 19 hours, 19 minutes** = **427 hours, 19 minutes** = **25,639 minutes**.
+- **Delta since previous reading:** **393 minutes (6h 33m)** logged in since the 2026-10-23 reading of 420h 46m. This may include AFK time and side content; not an isolated MSQ session measurement.
+- **Progress:** Advanced from accepted `Boys with Boats` (level 62) to the `A Part of Your World` level 63 journal entry, alongside a Shisui clear. No new job level or gear reading confirmed.
+- **Forecast:** Continue collecting checkpoints before deriving a reliable MSQ-hours-per-quest rate.
