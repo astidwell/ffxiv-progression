@@ -5,7 +5,7 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 ## Main Scenario
 
 - **Current era:** Stormblood (4.0), early Far East / Ruby Sea stretch
-- **Current MSQ:** `A Part of Your World` (level 63; shown in quest journal, completion not confirmed)
+- **Current MSQ:** `Breaking and Delivering` (level 63; current MSQ, confirmed by Aaron; completion not claimed)
 - **Last progression check-in:** 2026-10-24, recorded at approximately 09:52 CDT (America/Chicago; recording time)
 - **Cumulative playtime:** 17 days, 19 hours, 19 minutes (427 hours, 19 minutes), screenshot 2026-10-24. Increase since previous reading: **6h 33m logged in**, including side content / possible AFK time.
 - **Last character/gear screenshot:** 2026-10-22
@@ -66,7 +66,7 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 
 - Heavensward was ultimately very enjoyable despite a slower start.
 - Azys Lla was considered under-utilized; Aaron especially liked its sudden Allagan techno-fantasy vibe and wished the expansion did more with it.
-- Aaron has advanced into the early Ruby Sea stretch of Stormblood; `A Part of Your World` (level 63) appears in the quest journal as of 2026-10-24; completion unconfirmed. Shisui of the Violet Tides also cleared.
+- Aaron has advanced into the early Ruby Sea stretch of Stormblood; `Breaking and Delivering` (level 63) is the current MSQ as clarified by Aaron on 2026-10-24. `A Part of Your World` is a separate journal quest. Shisui of the Violet Tides also cleared.
 - The Far East side of Stormblood is especially appealing because of interest in SAM/NIN and Japanese-themed regions.
 
 ## Progression Check-ins
@@ -74,7 +74,7 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 - **Log:** `PROGRESSION_LOG.md`, started 2026-10-22; timestamps use America/Chicago.
 - **Goal:** Catch up for Evercold in January 2027; calibrate the forecast from periodic check-ins.
 - **Baseline:** Kugane, offered MSQ `Where the Streets Are Paved with Koban`; GNB 65 / i270. No measured active-playtime rate yet.
-- **Latest checkpoint:** 2026-10-24, recorded approximately 09:52 CDT — `A Part of Your World` shown in journal (level 63); Shisui cleared; cumulative playtime 427h 19m. **+6h 33m logged in** since the `Boys with Boats` checkpoint. AFK and side activity may contribute; pace remains an approximate indication, not pure MSQ hours.
+- **Latest checkpoint:** 2026-10-24, recorded approximately 09:52 CDT — `Breaking and Delivering` current MSQ (level 63); Shisui cleared; cumulative playtime 427h 19m. **+6h 33m logged in** since the `Boys with Boats` checkpoint. AFK and side activity may contribute; pace remains an approximate indication, not pure MSQ hours.
 - **Latest reaction:** Story is picking up, and landing in Kugane makes it feel fresh; excited to continue.
 
 ## Update Rules
