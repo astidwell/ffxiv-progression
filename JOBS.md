@@ -4,18 +4,18 @@ This file tracks Aaron's evolving job preferences, playstyle, and current conten
 
 ## Current Combat Job Levels
 
-Snapshot from Aaron's character screen on **2026-10-22**, at the offered Stormblood MSQ `Where the Streets Are Paved with Koban` (level 61):
+Snapshot from Aaron's character screen on **2026-10-31**, at Stormblood's Azim Steppe (`The Hour of Reckoning` objective fulfilled; turn-in not confirmed):
 
 ### Tanks
 - Paladin — **63**
 - Warrior — **57**
 - Dark Knight — **63**
-- Gunbreaker — **65**
+- Gunbreaker — **68**
 
 ### Healers
 - Conjurer — **9**
 - Scholar — **60**
-- Astrologian — **61**
+- Astrologian — **62**
 - Sage — **0**
 
 ### Melee DPS
@@ -29,7 +29,7 @@ Snapshot from Aaron's character screen on **2026-10-22**, at the offered Stormbl
 
 ### Physical Ranged DPS
 - Archer — **0**
-- Machinist — **65**
+- Machinist — **69**
 - Dancer — **60**
 
 ### Magical Ranged DPS
@@ -74,7 +74,7 @@ A useful shorthand is that Aaron likes jobs where the buttons **feel like they m
 #### Gunbreaker
 
 - Major favorite after initially getting a weaker first impression.
-- Current level: **65**.
+- Current level: **68**.
 - Current appeal is the **DPS-like burst-window structure**, cartridge flow, and busy technical feel.
 - Aaron has compared its complexity favorably to MCH.
 - Wicked Talon / later burst-style attacks strongly fit Aaron's preference for obvious payoff.
@@ -119,7 +119,7 @@ A useful shorthand is that Aaron likes jobs where the buttons **feel like they m
 #### Machinist
 
 - Rapidly became a major favorite.
-- Current level: **65**.
+- Current level: **69**.
 - **Drill** was the turning point; Reassemble + Drill is especially satisfying.
 - Likes the job's industrial, high-impact attacks and burst-window management.
 - Often plays MCH in the **midfield**, reflecting a general preference for proximity even on ranged jobs.
@@ -144,7 +144,7 @@ A useful shorthand is that Aaron likes jobs where the buttons **feel like they m
 
 #### Astrologian
 
-- Current level: **61**.
+- Current level: **62**.
 - Established favorite healer.
 - Enjoys HoTs, buffs, dynamic healing, and clutch recovery situations.
 - Healing is memorable because messy pulls create stories rather than just rotations.
