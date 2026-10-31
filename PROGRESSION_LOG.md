@@ -64,3 +64,13 @@ This chronological log tracks Aaron's reported progression toward catching up fo
 - **Delta since previous reading:** **393 minutes (6h 33m)** logged in since the 2026-10-23 reading of 420h 46m. This may include AFK time and side content; not an isolated MSQ session measurement.
 - **Progress:** Advanced from accepted `Boys with Boats` (level 62) to `Breaking and Delivering` (level 63), alongside a Shisui clear. No new job level or gear reading confirmed.
 - **Forecast:** Continue collecting checkpoints before deriving a reliable MSQ-hours-per-quest rate.
+
+## 2026-10-31 — Azim Steppe checkpoint
+
+- **Date:** 2026-10-31, America/Chicago; exact check-in time unavailable.
+- **MSQ:** `The Hour of Reckoning` in Azim Steppe. Objective fulfilled in screenshot, but turn-in not confirmed. `Crimson They Walked` completed; `Crimson Footprints I` achievement earned.
+- **Cumulative playtime:** 18 days 16 hours 40 minutes (448h 40m).
+- **Change since October 24:** +21h 21m logged in (not necessarily active MSQ time).
+- **Jobs:** PLD 63, WAR 57, DRK 63, GNB 68, CNJ 9, SCH 60, AST 62, SGE 0, MNK 35, LNC 0, NIN 90, SAM 63, RPR 0, VPR 0, BST 0, ARC 0, MCH 69, DNC 60, THM 4, SMN 60, RDM 50, PCT 0, BLU 0.
+- **New job unlocks:** Sage, Reaper, Viper, Pictomancer, Blue Mage and Beastmaster remain at zero in the screenshot; no unlock claimed.
+- **Pace:** Azim Steppe reached from Ruby Sea. Logged-in time includes potential side content and AFK; not a reliable MSQ-only pace.
