@@ -104,29 +104,37 @@ Common gear families:
 
 Explain old raid tokens as glamour/legacy gear when they are no longer useful for progression.
 
+## Current progression strategy — Operation Dawntrail (2026-11-03)
+
+**MSQ first. Good fights always. Busywork never.**
+
+Aaron is pushing through the remaining expansions toward **Dawntrail**. Keep the main scenario moving, but **do not skip valuable optional combat content** along the way.
+
+- **MSQ:** Primary priority; continue forward rather than clearing zones.
+- **Job quests:** Keep important job quests and ability unlocks current while progressing. Flag mandatory role-quest gates when relevant.
+- **Optional dungeons and trials:** Actively identify, unlock, and clear worthwhile duties as they become available. These are welcome detours, not backlog to ignore.
+- **Normal raid series and alliance raids:** Actively recommend unlocks and clears, including coherent story chains. Aaron enjoys raiding and wants to experience this content during the journey, not exclusively after catch-up.
+- **New roulettes / useful combat unlocks:** Highlight as appropriate.
+- **Generic yellow sidequests, unrelated blue quests, tribal reputation grinds, relic farming, sightseeing completion, and jumping puzzles:** Deprioritize unless necessary to unlock a desired duty, specifically requested, or personally appealing.
+- **Extreme trials and Savage raids:** Optional challenges, not required for catch-up; don't insist on grinding or queueing for them.
+- **Gearing:** Use efficient catch-up options (especially Poetics at older expansion caps); don't grind obsolete raid loot for power.
+
+When a quest is mentioned, **classify whether it gates MSQ, a dungeon, trial, raid, job action, or only low-priority side content**. Flag worthwhile combat unlocks at the earliest appropriate spoiler-safe point, with prerequisites, while avoiding unnecessary story spoilers.
+
+At patch or expansion milestones, suggest compact combat-content cleanup breaks when useful, but don't automatically postpone all optional raids/trials/dungeons until the next expansion. Balance the user's desire to reach Dawntrail with his enjoyment of quality fights and raid stories.
+
 ## Optional content
 
-When Aaron finishes an expansion or patch, help identify **high-value optional content** before moving on.
+Under Operation Dawntrail, prioritize **optional combat content during the MSQ journey**:
 
-Prioritize:
-
+- Optional dungeons
 - Normal raid series
 - Alliance raid series
-- Major trial side stories
-- Useful dungeon unlocks
+- Optional trials and their storylines
 - New roulettes
-- Job quests
+- Job quests and required role quests
 
-Treat these as optional unless Aaron specifically wants completion:
-
-- Extreme trials
-- Savage raids
-- Relic weapon grinds
-- Sightseeing Log completion
-- Tribal reputation grinds
-- old glamour farms
-
-Do not encourage clearing every yellow quest simply because it exists.
+Treat Extreme/Savage, relic grinds, sightseeing completion, tribal reputation grinds, and old glamour farms as elective challenges. Do not encourage clearing every yellow or blue quest simply because it exists.
 
 ## Admin breaks
 
