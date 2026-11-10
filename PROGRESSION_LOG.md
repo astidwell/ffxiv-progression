@@ -90,5 +90,9 @@ This chronological log tracks Aaron's reported progression toward catching up fo
 - **Other jobs:** PLD 63, WAR 57, DRK 63; CNJ 9, SCH 60, AST 63, **SGE 70**; MNK 35, LNC 0, NIN 90, SAM 63, **RPR 70**, VPR 0, BST 0; ARC 0, **MCH 70**, DNC 60; THM 4, SMN 60, RDM 50, PCT 0, BLU 0.
 - **Omega:** Deltascape V4.0 clear shown. `A Void at All Costs` completed; `The Anomaly` accepted, objective 'Speak with Cid in Gridania'.
 - **Other visible quests:** `The Darkness Below` (report to Arenvald; ready to turn in), `An Unwanted Truth` (enter Fractal Continuum Hard), `Sage's Focus` (speak with Lalah Jinjahl again), `Pirates of Shallow Water` (speak with storm captain in Isles of Umbra). Quest objectives shown, not assumed completed.
-- **MSQ:** Base Stormblood was completed 2026-11-07; current post-Stormblood MSQ quest is *not visible* in these screenshots.
+- **MSQ:** Base Stormblood was completed 2026-11-07; Aaron clarified that `The Darkness Below` is the current post-Stormblood MSQ, objective 'Report to Arenvald', green completion indicator shown but turn-in not confirmed.
 - **Job preference:** GNB tanking Omega. Aaron now actively calls main tank, likes managing boss mechanics, cast bars, positioning, and mitigation; Continuation has markedly increased satisfaction with GNB damage. Plans future Reaper re-clears.
+
+### 2026-11-10 — MSQ classification correction
+
+- Aaron explicitly identified `The Darkness Below` as his **current MSQ**, not optional side content. Objective is `Report to Arenvald`; ready for turn-in in screenshot, completion not claimed. This overrides the earlier uncertain MSQ status.
