@@ -74,3 +74,10 @@ This chronological log tracks Aaron's reported progression toward catching up fo
 - **Jobs:** PLD 63, WAR 57, DRK 63, GNB 68, CNJ 9, SCH 60, AST 62, SGE 0, MNK 35, LNC 0, NIN 90, SAM 63, RPR 0, VPR 0, BST 0, ARC 0, MCH 69, DNC 60, THM 4, SMN 60, RDM 50, PCT 0, BLU 0.
 - **New job unlocks:** Sage, Reaper, Viper, Pictomancer, Blue Mage and Beastmaster remain at zero in the screenshot; no unlock claimed.
 - **Pace:** Azim Steppe reached from Ruby Sea. Logged-in time includes potential side content and AFK; not a reliable MSQ-only pace.
+
+## 2026-11-10 — Omega Deltascape complete
+
+- **Date:** 2026-11-10, America/Chicago; exact check-in time unavailable.
+- **Raid milestone:** Cleared Omega: Deltascape normal (O1–O4). Sigmascape and Alphascape clears not yet reported.
+- **Story context:** Base Stormblood (4.0) MSQ was completed on 2026-11-07; current 4.x MSQ quest not yet specified.
+- **Playtime / job:** No new reading supplied. Do not infer elapsed gameplay hours.
