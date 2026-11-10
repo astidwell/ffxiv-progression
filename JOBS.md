@@ -4,32 +4,32 @@ This file tracks Aaron's evolving job preferences, playstyle, and current conten
 
 ## Current Combat Job Levels
 
-Snapshot from Aaron's character screen on **2026-10-31**, at Stormblood's Azim Steppe (`The Hour of Reckoning` objective fulfilled; turn-in not confirmed):
+Snapshot from Aaron's character screen on **2026-11-10**, after base Stormblood MSQ and Deltascape:
 
 ### Tanks
 - Paladin — **63**
 - Warrior — **57**
 - Dark Knight — **63**
-- Gunbreaker — **68**
+- Gunbreaker — **70**
 
 ### Healers
 - Conjurer — **9**
 - Scholar — **60**
-- Astrologian — **62**
-- Sage — **0**
+- Astrologian — **63**
+- Sage — **70**
 
 ### Melee DPS
 - Monk — **35**
 - Lancer — **0**
 - Ninja — **90** (job boost)
 - Samurai — **63**
-- Reaper — **0**
+- Reaper — **70**
 - Viper — **0**
 - Beastmaster — **0** (as displayed in the supplied character screen)
 
 ### Physical Ranged DPS
 - Archer — **0**
-- Machinist — **69**
+- Machinist — **70**
 - Dancer — **60**
 
 ### Magical Ranged DPS
@@ -63,6 +63,8 @@ A useful shorthand is that Aaron likes jobs where the buttons **feel like they m
 
 ### Tanks
 
+**2026-11-10 playstyle update:** Gunbreaker is increasingly a *main-tank* preference, not just DPS-flavored off-tanking. Aaron voluntarily calls MT and other tanks defer to him; boss positioning, cast-bar monitoring, mitigation and ground mechanics make fights more engaging than pure DPS throughput. Continuation at level 70 significantly improved the fun and perceived damage output. Current Omega clears are tanked on GNB for faster queues; plans to revisit on Reaper.
+
 #### Dark Knight
 
 - Major favorite and long-term main contender.
@@ -74,8 +76,8 @@ A useful shorthand is that Aaron likes jobs where the buttons **feel like they m
 #### Gunbreaker
 
 - Major favorite after initially getting a weaker first impression.
-- Current level: **68**.
-- Current appeal is the **DPS-like burst-window structure**, cartridge flow, and busy technical feel.
+- Current level: **70**.
+- Current appeal is the **DPS-like burst-window structure**, cartridge flow, and busy technical feel, plus meaningful encounter responsibility as main tank. Continuation especially clicked at level 70.
 - Aaron has compared its complexity favorably to MCH.
 - Wicked Talon / later burst-style attacks strongly fit Aaron's preference for obvious payoff.
 - DRK and GNB are currently the two preferred tanks.
@@ -119,7 +121,7 @@ A useful shorthand is that Aaron likes jobs where the buttons **feel like they m
 #### Machinist
 
 - Rapidly became a major favorite.
-- Current level: **69**.
+- Current level: **70**.
 - **Drill** was the turning point; Reassemble + Drill is especially satisfying.
 - Likes the job's industrial, high-impact attacks and burst-window management.
 - Often plays MCH in the **midfield**, reflecting a general preference for proximity even on ranged jobs.
@@ -144,20 +146,20 @@ A useful shorthand is that Aaron likes jobs where the buttons **feel like they m
 
 #### Astrologian
 
-- Current level: **62**.
+- Current level: **63**.
 - Established favorite healer.
 - Enjoys HoTs, buffs, dynamic healing, and clutch recovery situations.
 - Healing is memorable because messy pulls create stories rather than just rotations.
 
 #### Sage
 
-- Current level: **0**.
-- Major anticipated future contender.
+- Current level: **70**.
+- Unlocked and at level **70**; hands-on detailed verdict not yet reported.
 - Expected appeal: aggressive barrier healing, mobility, lasers, planning, and a more active presentation of the things Aaron enjoys about SCH.
 
 ### Future Jobs of Interest
 
-- **Reaper** — dark aesthetic and big melee payoff; likely fun but may compete with SAM/DRK for similar emotional space.
+- **Reaper** — now unlocked and level **70**; loves its priority/burst feel, avoiding rote 1-2-3 combos, visual impact and heavy attacks; ranks close to Samurai. Plans to revisit Omega raids as RPR.
 - **Viper** — expected to fit the desire for fast, close, continuous combat without NIN's mudra friction.
 - **Pictomancer** — curiosity remains; must pass the "oomph" test rather than feel like weak audiovisual pixie dust.
 
@@ -181,11 +183,11 @@ A useful shorthand is that Aaron likes jobs where the buttons **feel like they m
 ## Role Philosophy
 
 - Tanking has become a major focus; Aaron spent several recent play sessions mostly tanking.
-- **DRK + GNB** currently form the preferred tank pair.
+- **DRK + GNB** remain favored tanks; GNB is currently dominant and has become a main-tanking favorite.
 - **GNB + MCH** have dominated the most recent playtime, suggesting a strong preference for structured, mechanical burst loops with obvious payoff.
 - WAR is the likely "immortal unga bunga" alternate when leveled again.
 - PLD is being given a fair trial to see whether its later holy-knight identity overcomes the dull early levels.
-- DPS is often useful as a low-responsibility way to learn unfamiliar fights before tanking them.
+- Aaron increasingly prefers main-tanking for encounter ownership and engagement, not merely faster queues or durability. DPS remains enjoyable for alternative perspectives and rotations.
 - Healing remains appealing for its improvisational / recovery gameplay even though tanks have recently dominated playtime.
 
 ## Personal Job Archetypes
