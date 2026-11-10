@@ -5,10 +5,10 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 ## Main Scenario
 
 - **Current era:** Post-Stormblood (4.x), after completing base Stormblood (4.0)
-- **Current MSQ:** Not yet reported after completion of base Stormblood MSQ on 2026-11-07.
-- **Last progression check-in:** 2026-11-10 (America/Chicago; Deltascape clear; exact message timestamp unavailable).
-- **Cumulative playtime:** 17 days, 19 hours, 19 minutes (427 hours, 19 minutes), screenshot 2026-10-24. Increase since previous reading: **6h 33m logged in**, including side content / possible AFK time.
-- **Last character/gear screenshot:** 2026-10-22
+- **Current MSQ:** Not established in latest screenshot; visible journal quests are optional side-content chains, not confirmed MSQ. Base Stormblood MSQ completed 2026-11-07.
+- **Last progression check-in:** 2026-11-10 (America/Chicago; character, quest-journal and playtime screenshots; exact message timestamp unavailable).
+- **Cumulative playtime:** **20 days, 6 hours, 39 minutes (486h 39m)**, screenshot 2026-11-10. **+37h 59m** logged in since 2026-10-31 (448h 40m); includes possible AFK, leveling and optional content.
+- **Last character/gear screenshot:** 2026-11-10 — Gunbreaker level 70, equipped average item level 340
 - **Patch status:** Stormblood 4.0 complete; 4.x MSQ position not yet reported.
 - **Base Heavensward (3.0):** Complete
 - **Dragonsong War resolution:** Complete
@@ -42,7 +42,7 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 - **SAM** was the first job geared at level 60.
 - **DRK** is the next priority for i270 tank gear.
 - **MCH** follows after DRK when Poetics allow.
-- **2026-10-22 gear snapshot:** GNB level 65, equipped average item level **270**. Exact equipped gear pieces/set were not confirmed.
+- **2026-11-10 gear snapshot:** GNB level **70**, equipped average item level **340**. Level-70 Poetics upgrade target: Augmented Scaevan i400, if accessible and desired. Previous 2026-10-22 GNB 65 / i270 is historical.
 - Old Alexander token gear is primarily glamour/legacy gear rather than progression gear.
 
 ## Housing / Lifestyle
@@ -56,6 +56,14 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 - **Grand Company:** Reached the rank required to purchase an apartment (Second Lieutenant or above).
 - **Gold Saucer:** Recently visited for the first time; major side-content rabbit hole discovered.
 - Current housing interest includes decorating, useful furnishings, glamour-adjacent utility, and creating a strong apartment aesthetic.
+
+## Current Visible Optional Quest Journal (2026-11-10)
+
+- `The Anomaly` — accepted; objective **Speak with Cid in Gridania** (Omega story follow-up).
+- `The Darkness Below` — objective **Report to Arenvald**, green completion indicator shown; turn-in not confirmed.
+- `An Unwanted Truth` — objective **Enter the Fractal Continuum (Hard)**; dungeon clear not confirmed.
+- `Sage's Focus` — objective **Speak with Lalah Jinjahl again**; job-quest progress not completed.
+- `Pirates of Shallow Water` — objective **Speak with the storm captain at the Isles of Umbra**; completion not confirmed.
 
 ## Other Unlock / System Notes
 
@@ -76,7 +84,7 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 - **Log:** `PROGRESSION_LOG.md`, started 2026-10-22; timestamps use America/Chicago.
 - **Goal:** Catch up for Evercold in January 2027; calibrate the forecast from periodic check-ins.
 - **Baseline:** Kugane, offered MSQ `Where the Streets Are Paved with Koban`; GNB 65 / i270. No measured active-playtime rate yet.
-- **Latest checkpoint:** 2026-11-10 — Omega Deltascape O1–O4 cleared. Base Stormblood MSQ was completed on 2026-11-07. Current post-4.0 MSQ quest and updated playtime not reported. Last measured cumulative playtime remains 427h 19m on 2026-10-24.
+- **Latest checkpoint:** 2026-11-10 — Omega Deltascape O1–O4 cleared; screenshot confirms `A Void at All Costs` completed and `The Anomaly` accepted with objective to speak to Cid in Gridania. GNB 70/i340, RPR 70, SGE 70, MCH 70; cumulative playtime 486h 39m. Current MSQ quest not shown.
 - **Latest reaction:** Stormblood praised for cinematic presentation, though Heavensward is still slightly preferred overall; Deltascape cleared.
 
 ## Update Rules
