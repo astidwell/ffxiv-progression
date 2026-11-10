@@ -81,3 +81,14 @@ This chronological log tracks Aaron's reported progression toward catching up fo
 - **Raid milestone:** Cleared Omega: Deltascape normal (O1–O4). Sigmascape and Alphascape clears not yet reported.
 - **Story context:** Base Stormblood (4.0) MSQ was completed on 2026-11-07; current 4.x MSQ quest not yet specified.
 - **Playtime / job:** No new reading supplied. Do not infer elapsed gameplay hours.
+
+## 2026-11-10 — Full character and quest-journal check-in
+
+- **Date:** 2026-11-10, America/Chicago; exact message timestamp unavailable.
+- **Cumulative `/playtime`:** **20d 6h 39m = 486h 39m**, screenshot confirmed. **+37h 59m** since 2026-10-31 (448h 40m). Logged-in time, not measured active MSQ time.
+- **Equipped:** Gunbreaker **70**, average item level **340**.
+- **Other jobs:** PLD 63, WAR 57, DRK 63; CNJ 9, SCH 60, AST 63, **SGE 70**; MNK 35, LNC 0, NIN 90, SAM 63, **RPR 70**, VPR 0, BST 0; ARC 0, **MCH 70**, DNC 60; THM 4, SMN 60, RDM 50, PCT 0, BLU 0.
+- **Omega:** Deltascape V4.0 clear shown. `A Void at All Costs` completed; `The Anomaly` accepted, objective 'Speak with Cid in Gridania'.
+- **Other visible quests:** `The Darkness Below` (report to Arenvald; ready to turn in), `An Unwanted Truth` (enter Fractal Continuum Hard), `Sage's Focus` (speak with Lalah Jinjahl again), `Pirates of Shallow Water` (speak with storm captain in Isles of Umbra). Quest objectives shown, not assumed completed.
+- **MSQ:** Base Stormblood was completed 2026-11-07; current post-Stormblood MSQ quest is *not visible* in these screenshots.
+- **Job preference:** GNB tanking Omega. Aaron now actively calls main tank, likes managing boss mechanics, cast bars, positioning, and mitigation; Continuation has markedly increased satisfaction with GNB damage. Plans future Reaper re-clears.
