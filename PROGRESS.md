@@ -4,20 +4,22 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 
 ## Main Scenario
 
-- **Current era:** Stormblood (4.0), early Far East / Ruby Sea stretch
-- **Current MSQ:** `Breaking and Delivering` (level 63; current MSQ, confirmed by Aaron; completion not claimed)
-- **Last progression check-in:** 2026-10-24, recorded at approximately 09:52 CDT (America/Chicago; recording time)
+- **Current era:** Post-Stormblood (4.x), after completing base Stormblood (4.0)
+- **Current MSQ:** Not yet reported after completion of base Stormblood MSQ on 2026-11-07.
+- **Last progression check-in:** 2026-11-10 (America/Chicago; Deltascape clear; exact message timestamp unavailable).
 - **Cumulative playtime:** 17 days, 19 hours, 19 minutes (427 hours, 19 minutes), screenshot 2026-10-24. Increase since previous reading: **6h 33m logged in**, including side content / possible AFK time.
 - **Last character/gear screenshot:** 2026-10-22
-- **Patch status:** Stormblood 4.0 has begun
+- **Patch status:** Stormblood 4.0 complete; 4.x MSQ position not yet reported.
 - **Base Heavensward (3.0):** Complete
 - **Dragonsong War resolution:** Complete
 - **Post-Heavensward:** Complete
-- **Stormblood:** Started
+- **Stormblood:** Base 4.0 MSQ complete, reported 2026-11-07.
 
 ## Major Duties / Side Content
 
 ### Completed
+
+- **Omega: Deltascape (O1–O4) normal:** Complete, reported 2026-11-10. Sigmascape and Alphascape not yet confirmed.
 
 - **Alexander normal raid series:** Complete
 - **Shisui of the Violet Tides:** Completed, reported 2026-10-24.
@@ -74,8 +76,8 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 - **Log:** `PROGRESSION_LOG.md`, started 2026-10-22; timestamps use America/Chicago.
 - **Goal:** Catch up for Evercold in January 2027; calibrate the forecast from periodic check-ins.
 - **Baseline:** Kugane, offered MSQ `Where the Streets Are Paved with Koban`; GNB 65 / i270. No measured active-playtime rate yet.
-- **Latest checkpoint:** 2026-10-24, recorded approximately 09:52 CDT — `Breaking and Delivering` current MSQ (level 63); Shisui cleared; cumulative playtime 427h 19m. **+6h 33m logged in** since the `Boys with Boats` checkpoint. AFK and side activity may contribute; pace remains an approximate indication, not pure MSQ hours.
-- **Latest reaction:** Story is picking up, and landing in Kugane makes it feel fresh; excited to continue.
+- **Latest checkpoint:** 2026-11-10 — Omega Deltascape O1–O4 cleared. Base Stormblood MSQ was completed on 2026-11-07. Current post-4.0 MSQ quest and updated playtime not reported. Last measured cumulative playtime remains 427h 19m on 2026-10-24.
+- **Latest reaction:** Stormblood praised for cinematic presentation, though Heavensward is still slightly preferred overall; Deltascape cleared.
 
 ## Update Rules
 
