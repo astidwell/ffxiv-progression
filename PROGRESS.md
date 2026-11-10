@@ -5,7 +5,7 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 ## Main Scenario
 
 - **Current era:** Post-Stormblood (4.x), after completing base Stormblood (4.0)
-- **Current MSQ:** Not established in latest screenshot; visible journal quests are optional side-content chains, not confirmed MSQ. Base Stormblood MSQ completed 2026-11-07.
+- **Current MSQ:** `The Darkness Below` (post-Stormblood 4.x), objective **Report to Arenvald**; green quest-completion indicator visible, but turn-in not confirmed. Explicitly identified as MSQ by Aaron 2026-11-10.
 - **Last progression check-in:** 2026-11-10 (America/Chicago; character, quest-journal and playtime screenshots; exact message timestamp unavailable).
 - **Cumulative playtime:** **20 days, 6 hours, 39 minutes (486h 39m)**, screenshot 2026-11-10. **+37h 59m** logged in since 2026-10-31 (448h 40m); includes possible AFK, leveling and optional content.
 - **Last character/gear screenshot:** 2026-11-10 — Gunbreaker level 70, equipped average item level 340
@@ -60,7 +60,7 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 ## Current Visible Optional Quest Journal (2026-11-10)
 
 - `The Anomaly` — accepted; objective **Speak with Cid in Gridania** (Omega story follow-up).
-- `The Darkness Below` — objective **Report to Arenvald**, green completion indicator shown; turn-in not confirmed.
+- `The Darkness Below` — **MSQ**, not optional; objective **Report to Arenvald**, ready to turn in (not confirmed complete).
 - `An Unwanted Truth` — objective **Enter the Fractal Continuum (Hard)**; dungeon clear not confirmed.
 - `Sage's Focus` — objective **Speak with Lalah Jinjahl again**; job-quest progress not completed.
 - `Pirates of Shallow Water` — objective **Speak with the storm captain at the Isles of Umbra**; completion not confirmed.
@@ -84,7 +84,7 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 - **Log:** `PROGRESSION_LOG.md`, started 2026-10-22; timestamps use America/Chicago.
 - **Goal:** Catch up for Evercold in January 2027; calibrate the forecast from periodic check-ins.
 - **Baseline:** Kugane, offered MSQ `Where the Streets Are Paved with Koban`; GNB 65 / i270. No measured active-playtime rate yet.
-- **Latest checkpoint:** 2026-11-10 — Omega Deltascape O1–O4 cleared; screenshot confirms `A Void at All Costs` completed and `The Anomaly` accepted with objective to speak to Cid in Gridania. GNB 70/i340, RPR 70, SGE 70, MCH 70; cumulative playtime 486h 39m. Current MSQ quest not shown.
+- **Latest checkpoint:** 2026-11-10 — Omega Deltascape O1–O4 cleared; screenshot confirms `A Void at All Costs` completed and `The Anomaly` accepted with objective to speak to Cid in Gridania. GNB 70/i340, RPR 70, SGE 70, MCH 70; cumulative playtime 486h 39m. Current MSQ `The Darkness Below` (report to Arenvald, ready to turn in).
 - **Latest reaction:** Stormblood praised for cinematic presentation, though Heavensward is still slightly preferred overall; Deltascape cleared.
 
 ## Update Rules
