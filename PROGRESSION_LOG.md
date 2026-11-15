@@ -96,3 +96,15 @@ This chronological log tracks Aaron's reported progression toward catching up fo
 ### 2026-11-10 — MSQ classification correction
 
 - Aaron explicitly identified `The Darkness Below` as his **current MSQ**, not optional side content. Objective is `Report to Arenvald`; ready for turn-in in screenshot, completion not claimed. This overrides the earlier uncertain MSQ status.
+
+## 2026-11-14 — Updated post-Stormblood checkpoint and combat corrections
+
+- **Date:** 2026-11-14, America/Chicago; exact check-in message time unavailable.
+- **MSQ:** `A Sultana's Strings`, patch **4.1**; objective `Speak with Nanamo` shown complete, quest turn-in not confirmed. Four Lords unlocks after 4.2 quest `Hope on the Waves`, not yet available.
+- **Omega:** Deltascape complete; Sigmascape progressed past; Alphascape V1.0 progressed past; **Alphascape V2.0 queued** with `And Like Fire Was His Mane` objective. V2.0 clear not confirmed.
+- **Jobs:** Reaper **71**, equipped i355; Gunbreaker **71**; all other displayed job levels unchanged from November 10.
+- **Playtime:** **20 days, 20 hours, 18 minutes = 500h 18m**. Change since November 10: **+13h 39m** of logged-in time (may include AFK/other content).
+- **Dungeons:** Player explicitly confirms **all currently unlocked dungeons are complete** (including Temple of the Fist, Drowned City of Skalla, Fractal Continuum (Hard), Saint Mocianne's Arboretum (Hard)). `King of the Castle` accepted, Kugane Castle unlock/clear not confirmed.
+- **Trials:** **Warring Triad normal series fully completed**, explicit correction. `The New King on the Block` (Monster Hunter / Rathalos trial) just picked up, not confirmed cleared.
+- **Remaining potential combat pickups:** Return to Ivalice via `Dramatis Personae` (Keiten, Kugane 12.2,12.3); confirm Shadow of Mhach completion via `Sky Pirates` (Unquiet Trader, Pillars 14.1,10.7); Kugane Castle; Monster Hunter; Omega finale; Binding Coil already unlocked for future unsynced completion; Hildibrand Kugane Ohashi low priority. Four Lords after the 4.2 prerequisite.
+- **Source of corrections:** User's direct statements and screenshots on November 14 override earlier GitHub snapshots. No dungeon unlocked after this snapshot should automatically be marked complete.
