@@ -5,11 +5,11 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 ## Main Scenario
 
 - **Current era:** Post-Stormblood (4.x), after completing base Stormblood (4.0)
-- **Current MSQ:** `The Darkness Below` (post-Stormblood 4.x), objective **Report to Arenvald**; green quest-completion indicator visible, but turn-in not confirmed. Explicitly identified as MSQ by Aaron 2026-11-10.
-- **Last progression check-in:** 2026-11-10 (America/Chicago; character, quest-journal and playtime screenshots; exact message timestamp unavailable).
-- **Cumulative playtime:** **20 days, 6 hours, 39 minutes (486h 39m)**, screenshot 2026-11-10. **+37h 59m** logged in since 2026-10-31 (448h 40m); includes possible AFK, leveling and optional content.
-- **Last character/gear screenshot:** 2026-11-10 — Gunbreaker level 70, equipped average item level 340
-- **Patch status:** Stormblood 4.0 complete; 4.x MSQ position not yet reported.
+- **Current MSQ:** `A Sultana's Strings` (post-Stormblood 4.x); journal objective **Speak with Nanamo**, green completed-objective indicator shown; turn-in not confirmed (2026-11-14).
+- **Last progression check-in:** 2026-11-14 (America/Chicago; Duty Finder, quest journal, job roster and playtime screenshots; exact message timestamp unavailable).
+- **Cumulative playtime:** **20 days, 20 hours, 18 minutes (500h 18m)**, screenshot 2026-11-14. **+13h 39m** logged in since 2026-11-10 (486h 39m); includes possible AFK, leveling and optional content.
+- **Last character/gear screenshot:** 2026-11-14 — Reaper level 71, equipped average item level 355; Gunbreaker level 71
+- **Patch status:** Stormblood 4.0 complete; currently post-Stormblood 4.x `A Sultana's Strings`.
 - **Base Heavensward (3.0):** Complete
 - **Dragonsong War resolution:** Complete
 - **Post-Heavensward:** Complete
@@ -19,7 +19,9 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 
 ### Completed
 
-- **Omega: Deltascape (O1–O4) normal:** Complete, reported 2026-11-10. Sigmascape and Alphascape not yet confirmed.
+- **Omega: Deltascape (O1–O4) normal:** Complete, reported 2026-11-10.
+- **Omega: Sigmascape (O5–O8):** Progressed through all four; Alphascape V2.0 is unlocked and queued, establishing Sigmascape chain progress (2026-11-14).
+- **Omega: Alphascape V1.0:** Progressed past; **Alphascape V2.0** queued on Reaper 2026-11-14, NOT yet confirmed cleared.
 
 - **Alexander normal raid series:** Complete
 - **Shisui of the Violet Tides:** Completed, reported 2026-10-24.
@@ -65,6 +67,14 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 - `Sage's Focus` — objective **Speak with Lalah Jinjahl again**; job-quest progress not completed.
 - `Pirates of Shallow Water` — objective **Speak with the storm captain at the Isles of Umbra**; completion not confirmed.
 
+## Stormblood Duty Unlock Check-in (2026-11-14)
+
+- **Unlocked in Duty Finder:** Temple of the Fist, The Fractal Continuum (Hard), Saint Mocianne's Arboretum (Hard), The Drowned City of Skalla. Dungeon unlock is not proof of dungeon completion.
+- **King of the Castle:** accepted, objective **Speak with the Sekiseigumi blade**; Kugane Castle not yet confirmed unlocked/cleared.
+- **Trials visible:** Pool of Tribute, Emanation, Royal Menagerie. No optional Four Lords trials visible in the screenshot; no claim that they are not unlocked elsewhere.
+- **Omega:** Alphascape V2.0 actively queued; quest `And Like Fire Was His Mane` objective **Enter Alphascape V2.0**.
+- **Other journal:** `Enter the Viper` accepted, objective speak with Viper outside Weavers' Guild; `Sage's Focus` still in journal; `A Sultana's Strings` MSQ shown with completed-objective check.
+
 ## Other Unlock / System Notes
 
 - Wondrous Tails unlocked.
@@ -84,7 +94,7 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 - **Log:** `PROGRESSION_LOG.md`, started 2026-10-22; timestamps use America/Chicago.
 - **Goal:** Catch up for Evercold in January 2027; calibrate the forecast from periodic check-ins.
 - **Baseline:** Kugane, offered MSQ `Where the Streets Are Paved with Koban`; GNB 65 / i270. No measured active-playtime rate yet.
-- **Latest checkpoint:** 2026-11-10 — Omega Deltascape O1–O4 cleared; screenshot confirms `A Void at All Costs` completed and `The Anomaly` accepted with objective to speak to Cid in Gridania. GNB 70/i340, RPR 70, SGE 70, MCH 70; cumulative playtime 486h 39m. Current MSQ `The Darkness Below` (report to Arenvald, ready to turn in).
+- **Latest checkpoint:** 2026-11-14 — `A Sultana's Strings` MSQ; Alphascape V2.0 queued; Reaper 71/i355, Gunbreaker 71; cumulative playtime 500h 18m. See 2026-11-14 section above.
 - **Latest reaction:** Stormblood praised for cinematic presentation, though Heavensward is still slightly preferred overall; Deltascape cleared.
 
 ## Update Rules
