@@ -30,12 +30,8 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 
 ### Known Heavensward cleanup still outstanding
 
-- **Pharos Sirius (Hard)**
-- **Warring Triad normal trials:**
-  - Containment Bay S1T7 — Sephirot
-  - Containment Bay P1T6 — Sophia
-  - Containment Bay Z1T9 — Zurvan
-- Extreme versions of the Warring Triad trials are not a current priority.
+- **Pharos Sirius (Hard)** — prior backlog; current completion not verified (all *currently unlocked* dungeons are cleared, per 2026-11-14 user update)
+- **Warring Triad normal trials: COMPLETE** — Sephirot, Sophia and Zurvan, explicitly reconfirmed 2026-11-14. Extreme versions remain optional, not a priority.
 - Binding Coil is intended as a later unsynced/story clear rather than a Duty Finder grind.
 
 ## Gear / Level-Cap Strategy
@@ -102,3 +98,13 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 When Aaron gives a new MSQ quest, completed duty, gear milestone, housing unlock, or similar progression update, treat the newest conversation information as authoritative.
 
 Only write changes back to this file when Aaron explicitly asks to **save, log, record, document, or update** the FFXIV project/GitHub, or provides an intentional progression check-in under the standing authorization recorded in README.md.
+
+## 2026-11-14 — Authoritative combat cleanup and unlock plan
+
+- **User corrections:** All dungeons that are *currently unlocked* have been **completed**. This explicitly includes Temple of the Fist, The Drowned City of Skalla, The Fractal Continuum (Hard), and Saint Mocianne's Arboretum (Hard). **Warring Triad (Sephirot/Sophia/Zurvan normal) is fully complete.** `The New King on the Block` Monster Hunter quest has been **picked up**; Rathalos duty clear not yet established.
+- **Kugane Castle:** `King of the Castle` is accepted but Kugane Castle not confirmed unlocked/cleared; **do not confuse this with completed unlocked dungeons**.
+- **Omega:** Deltascape complete; Sigmascape chain progressed past; Alphascape V2.0 queued, V2–V4 and finale not yet confirmed complete.
+- **MSQ:** `A Sultana's Strings` is patch **4.1**, not 4.2. **Four Lords is locked** until `Hope on the Waves` (4.2). Do not recommend it as immediately available.
+- **Immediate optional combat targets:** Complete Alphascape; Kugane Castle via `King of the Castle` (Kugane 13.9,13.4); Monster Hunter `The New King on the Block` (Hearty Hunter, Kugane 9.7,8.9); Return to Ivalice from `Dramatis Personae` (Keiten, Kugane 12.2,12.3), three alliance raids; verify Shadow of Mhach alliance raids via `Sky Pirates` (Unquiet Trader, The Pillars 14.1,10.7). Binding Coil already unlocked for later unsynced clear. Hildibrand's Kugane Ohashi trial is a low-priority long chain, begins `A Hingan Tale: Nashu Goes East` (Kugane 10.6,9.8) only if previous Hildibrand complete.
+- **Four Lords after 4.2 `Hope on the Waves`:** Soroban, The Ruby Sea 5.7,15.7, `An Auspicious Encounter` -> Hells' Lid and Jade Stoa; `Tortoise in Time` -> Swallow's Compass; `The Fire-bird Down Below` -> Hells' Kier; `Surpassing the Samurai` -> Wreath of Snakes.
+- **Strategy:** MSQ first; normal raids/alliance raids, dungeons and trials welcome; avoid routine Extremes, Savage, relic/tribal grinds, and jumping puzzles.
