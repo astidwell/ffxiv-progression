@@ -108,3 +108,9 @@ Only write changes back to this file when Aaron explicitly asks to **save, log, 
 - **Immediate optional combat targets:** Complete Alphascape; Kugane Castle via `King of the Castle` (Kugane 13.9,13.4); Monster Hunter `The New King on the Block` (Hearty Hunter, Kugane 9.7,8.9); Return to Ivalice from `Dramatis Personae` (Keiten, Kugane 12.2,12.3), three alliance raids; verify Shadow of Mhach alliance raids via `Sky Pirates` (Unquiet Trader, The Pillars 14.1,10.7). Binding Coil already unlocked for later unsynced clear. Hildibrand's Kugane Ohashi trial is a low-priority long chain, begins `A Hingan Tale: Nashu Goes East` (Kugane 10.6,9.8) only if previous Hildibrand complete.
 - **Four Lords after 4.2 `Hope on the Waves`:** Soroban, The Ruby Sea 5.7,15.7, `An Auspicious Encounter` -> Hells' Lid and Jade Stoa; `Tortoise in Time` -> Swallow's Compass; `The Fire-bird Down Below` -> Hells' Kier; `Surpassing the Samurai` -> Wreath of Snakes.
 - **Strategy:** MSQ first; normal raids/alliance raids, dungeons and trials welcome; avoid routine Extremes, Savage, relic/tribal grinds, and jumping puzzles.
+
+### Additional available combat systems (elective; not MSQ cleanup)
+
+- **The Forbidden Land, Eureka:** `And We Shall Call It Eureka` — Galiena, Rhalgr's Reach (X:9.8, Y:12.5). Available after base Stormblood; lengthy field-operation/relic grind, low priority under Operation Dawntrail.
+- **Heaven-on-High deep dungeon:** `Knocking on Heaven's Door` — Hamakaze, The Ruby Sea (X:6.2, Y:11.7); requires Palace of the Dead floor 50. Previous discussion of the quest does not prove the prerequisite or unlock was completed. Low priority.
+- **Shadow of Mhach:** Completion not confirmed; do not label unfinished without checking Duty Finder or completed quests.
