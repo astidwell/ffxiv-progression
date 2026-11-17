@@ -113,7 +113,7 @@ Only write changes back to this file when Aaron explicitly asks to **save, log, 
 
 - **The Forbidden Land, Eureka:** `And We Shall Call It Eureka` — Galiena, Rhalgr's Reach (X:9.8, Y:12.5). Available after base Stormblood; lengthy field-operation/relic grind, low priority under Operation Dawntrail.
 - **Heaven-on-High deep dungeon:** `Knocking on Heaven's Door` — Hamakaze, The Ruby Sea (X:6.2, Y:11.7); requires Palace of the Dead floor 50. Previous discussion of the quest does not prove the prerequisite or unlock was completed. Low priority.
-- **Shadow of Mhach:** Completion not confirmed; do not label unfinished without checking Duty Finder or completed quests.
+- **Shadow of Mhach:** All three alliance raids — The Void Ark, The Weeping City of Mhach, Dun Scaith — explicitly confirmed complete on 2026-11-17.
 
 ## 2026-11-17 — Stormblood combat check-in
 
@@ -125,3 +125,5 @@ Only write changes back to this file when Aaron explicitly asks to **save, log, 
 - **Stormblood normal trials confirmed in Duty Finder:** The Pool of Tribute, Emanation, The Royal Menagerie, The Great Hunt (Rathalos). **The Great Hunt (Extreme)** is visible/unlocked but clear not established.
 - **Next meaningful optional chain:** The Four Lords, story-gated until 4.2 `Hope on the Waves`; includes two dungeons and three trials. Kugane Ohashi remains an elective Hildibrand-chain trial, and Binding Coil remains a possible unsynced story clear.
 - **Playtime:** No new reading on this check-in; latest known 500h 18m (2026-11-14).
+
+- **2026-11-17 follow-up:** Aaron confirms all three Shadow of Mhach alliance raids completed: The Void Ark, The Weeping City of Mhach, and Dun Scaith. No longer an outstanding verification item.
