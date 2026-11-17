@@ -119,3 +119,8 @@ This chronological log tracks Aaron's reported progression toward catching up fo
 - **Normal trials:** The Pool of Tribute, Emanation, The Royal Menagerie, The Great Hunt (Rathalos) — four confirmed. Great Hunt (Extreme) appears unlocked under High-end Trials but no clear is claimed. Warring Triad normal trio was already completed previously.
 - **Next content:** Four Lords remains gated by patch 4.2 `Hope on the Waves` and will add two dungeons and three trials.
 - **Playtime:** Not supplied; no invented delta or pace forecast.
+
+### 2026-11-17 — Shadow of Mhach confirmed
+
+- Aaron explicitly confirmed all three Heavensward Shadow of Mhach alliance raids are complete: The Void Ark, The Weeping City of Mhach, and Dun Scaith.
+- This resolves the prior outstanding verification; no further Shadow of Mhach cleanup is needed.
