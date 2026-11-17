@@ -108,3 +108,14 @@ This chronological log tracks Aaron's reported progression toward catching up fo
 - **Trials:** **Warring Triad normal series fully completed**, explicit correction. `The New King on the Block` (Monster Hunter / Rathalos trial) just picked up, not confirmed cleared.
 - **Remaining potential combat pickups:** Return to Ivalice via `Dramatis Personae` (Keiten, Kugane 12.2,12.3); confirm Shadow of Mhach completion via `Sky Pirates` (Unquiet Trader, Pillars 14.1,10.7); Kugane Castle; Monster Hunter; Omega finale; Binding Coil already unlocked for future unsynced completion; Hildibrand Kugane Ohashi low priority. Four Lords after the 4.2 prerequisite.
 - **Source of corrections:** User's direct statements and screenshots on November 14 override earlier GitHub snapshots. No dungeon unlocked after this snapshot should automatically be marked complete.
+
+## 2026-11-17 — Full Stormblood combat cleanup check-in
+
+- **Date:** 2026-11-17, America/Chicago; exact message timestamp unavailable.
+- **MSQ:** `A Sultana's Duty`, post-Stormblood patch 4.1; current quest, not yet claimed complete.
+- **Levels / equipment:** Gunbreaker **72 / i400**, Reaper **72 / i365**. Both rose one level since November 14; GNB gear improved significantly.
+- **Raids:** Omega normal series complete (Deltascape, Sigmascape, Alphascape). All three Return to Ivalice alliance raids complete (Rabanastre, Ridorana Lighthouse, Orbonne Monastery).
+- **Dungeons:** All presently unlocked dungeons completed; screenshot shows Stormblood dungeon list, not future locked content.
+- **Normal trials:** The Pool of Tribute, Emanation, The Royal Menagerie, The Great Hunt (Rathalos) — four confirmed. Great Hunt (Extreme) appears unlocked under High-end Trials but no clear is claimed. Warring Triad normal trio was already completed previously.
+- **Next content:** Four Lords remains gated by patch 4.2 `Hope on the Waves` and will add two dungeons and three trials.
+- **Playtime:** Not supplied; no invented delta or pace forecast.
