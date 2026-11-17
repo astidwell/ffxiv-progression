@@ -4,13 +4,13 @@ This file tracks Aaron's evolving job preferences, playstyle, and current conten
 
 ## Current Combat Job Levels
 
-Snapshot from Aaron's character screen on **2026-11-14**, during post-Stormblood MSQ and Alphascape:
+Roster snapshot from **2026-11-14**, updated with confirmed **2026-11-17** levels for GNB and RPR:
 
 ### Tanks
 - Paladin — **63**
 - Warrior — **57**
 - Dark Knight — **63**
-- Gunbreaker — **71**
+- Gunbreaker — **72** (i400)
 
 ### Healers
 - Conjurer — **9**
@@ -23,7 +23,7 @@ Snapshot from Aaron's character screen on **2026-11-14**, during post-Stormblood
 - Lancer — **0**
 - Ninja — **90** (job boost)
 - Samurai — **63**
-- Reaper — **71**
+- Reaper — **72** (i365)
 - Viper — **0**
 - Beastmaster — **0** (as displayed in the supplied character screen)
 
@@ -76,7 +76,7 @@ A useful shorthand is that Aaron likes jobs where the buttons **feel like they m
 #### Gunbreaker
 
 - Major favorite after initially getting a weaker first impression.
-- Current level: **71**.
+- Current level: **72**, i400.
 - Current appeal is the **DPS-like burst-window structure**, cartridge flow, and busy technical feel, plus meaningful encounter responsibility as main tank. Continuation especially clicked at level 70.
 - Aaron has compared its complexity favorably to MCH.
 - Wicked Talon / later burst-style attacks strongly fit Aaron's preference for obvious payoff.
@@ -159,7 +159,7 @@ A useful shorthand is that Aaron likes jobs where the buttons **feel like they m
 
 ### Future Jobs of Interest
 
-- **Reaper** — now unlocked and level **71**; loves its priority/burst feel, avoiding rote 1-2-3 combos, visual impact and heavy attacks; ranks close to Samurai. Plans to revisit Omega raids as RPR.
+- **Reaper** — now unlocked and level **72**, i365; loves its priority/burst feel, avoiding rote 1-2-3 combos, visual impact and heavy attacks; ranks close to Samurai. Plans to revisit Omega raids as RPR.
 - **Viper** — expected to fit the desire for fast, close, continuous combat without NIN's mudra friction.
 - **Pictomancer** — curiosity remains; must pass the "oomph" test rather than feel like weak audiovisual pixie dust.
 
