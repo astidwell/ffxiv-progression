@@ -5,11 +5,11 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 ## Main Scenario
 
 - **Current era:** Post-Stormblood (4.x), after completing base Stormblood (4.0)
-- **Current MSQ:** `A Sultana's Strings` (post-Stormblood 4.x); journal objective **Speak with Nanamo**, green completed-objective indicator shown; turn-in not confirmed (2026-11-14).
-- **Last progression check-in:** 2026-11-14 (America/Chicago; Duty Finder, quest journal, job roster and playtime screenshots; exact message timestamp unavailable).
+- **Current MSQ:** `A Sultana's Duty` (post-Stormblood patch 4.1), reported 2026-11-17; completion not claimed.
+- **Last progression check-in:** 2026-11-17 (America/Chicago; exact message timestamp unavailable).
 - **Cumulative playtime:** **20 days, 20 hours, 18 minutes (500h 18m)**, screenshot 2026-11-14. **+13h 39m** logged in since 2026-11-10 (486h 39m); includes possible AFK, leveling and optional content.
-- **Last character/gear screenshot:** 2026-11-14 — Reaper level 71, equipped average item level 355; Gunbreaker level 71
-- **Patch status:** Stormblood 4.0 complete; currently post-Stormblood 4.x `A Sultana's Strings`.
+- **Last character/gear check-in:** 2026-11-17 — Reaper level 72, i365; Gunbreaker level 72, i400.
+- **Patch status:** Stormblood 4.0 complete; currently post-Stormblood 4.1 `A Sultana's Duty`.
 - **Base Heavensward (3.0):** Complete
 - **Dragonsong War resolution:** Complete
 - **Post-Heavensward:** Complete
@@ -90,7 +90,7 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 - **Log:** `PROGRESSION_LOG.md`, started 2026-10-22; timestamps use America/Chicago.
 - **Goal:** Catch up for Evercold in January 2027; calibrate the forecast from periodic check-ins.
 - **Baseline:** Kugane, offered MSQ `Where the Streets Are Paved with Koban`; GNB 65 / i270. No measured active-playtime rate yet.
-- **Latest checkpoint:** 2026-11-14 — `A Sultana's Strings` MSQ; Alphascape V2.0 queued; Reaper 71/i355, Gunbreaker 71; cumulative playtime 500h 18m. See 2026-11-14 section above.
+- **Latest checkpoint:** 2026-11-17 — `A Sultana's Duty`; Omega complete, all three Return to Ivalice alliance raids complete, all unlocked dungeons cleared; four Stormblood normal trials confirmed (Pool of Tribute, Emanation, Royal Menagerie, Great Hunt); RPR 72/i365 and GNB 72/i400. Last known playtime remains 500h 18m as of 2026-11-14.
 - **Latest reaction:** Stormblood praised for cinematic presentation, though Heavensward is still slightly preferred overall; Deltascape cleared.
 
 ## Update Rules
@@ -114,3 +114,14 @@ Only write changes back to this file when Aaron explicitly asks to **save, log, 
 - **The Forbidden Land, Eureka:** `And We Shall Call It Eureka` — Galiena, Rhalgr's Reach (X:9.8, Y:12.5). Available after base Stormblood; lengthy field-operation/relic grind, low priority under Operation Dawntrail.
 - **Heaven-on-High deep dungeon:** `Knocking on Heaven's Door` — Hamakaze, The Ruby Sea (X:6.2, Y:11.7); requires Palace of the Dead floor 50. Previous discussion of the quest does not prove the prerequisite or unlock was completed. Low priority.
 - **Shadow of Mhach:** Completion not confirmed; do not label unfinished without checking Duty Finder or completed quests.
+
+## 2026-11-17 — Stormblood combat check-in
+
+- **MSQ:** `A Sultana's Duty` (patch 4.1), current, completion not confirmed.
+- **Jobs and gear:** Gunbreaker 72 / i400; Reaper 72 / i365. GNB has reached Augmented Scaevan item level; RPR still needs capstone gearing.
+- **Omega normal raids:** All three tiers — Deltascape, Sigmascape, Alphascape — complete.
+- **Return to Ivalice alliance raids:** All three complete — Royal City of Rabanastre, Ridorana Lighthouse, Orbonne Monastery.
+- **Dungeons:** All currently unlocked dungeons cleared, including all shown Stormblood duties. This does not imply future MSQ-locked dungeons are complete.
+- **Stormblood normal trials confirmed in Duty Finder:** The Pool of Tribute, Emanation, The Royal Menagerie, The Great Hunt (Rathalos). **The Great Hunt (Extreme)** is visible/unlocked but clear not established.
+- **Next meaningful optional chain:** The Four Lords, story-gated until 4.2 `Hope on the Waves`; includes two dungeons and three trials. Kugane Ohashi remains an elective Hildibrand-chain trial, and Binding Coil remains a possible unsynced story clear.
+- **Playtime:** No new reading on this check-in; latest known 500h 18m (2026-11-14).
