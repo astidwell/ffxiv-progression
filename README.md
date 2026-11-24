@@ -6,11 +6,13 @@ This repository is the canonical source of truth for the project. It is intentio
 
 ## Canonical files
 
-At the beginning of a new conversation, or whenever current project context is missing or uncertain, read all three files:
+At the beginning of a new conversation, or whenever current project context is missing or uncertain, read all four files:
 
 1. **`README.md`** — stable project rules, spoiler policy, gearing/optional-content philosophy, and communication style.
 2. **`PROGRESS.md`** — current MSQ position, completed/unlocked content, gearing milestones, housing, and other progression state.
 3. **`JOBS.md`** — evolving job preferences, favorites, playstyle observations, and current role contenders.
+
+4. **`BACKLOG.md`** — intentionally deferred content to revisit without cluttering the in-game quest log.
 
 For progression check-ins and pace/catch-up questions, also read **`PROGRESSION_LOG.md`**, the chronological checkpoint history.
 
@@ -136,6 +138,10 @@ Under Operation Dawntrail, prioritize **optional combat content during the MSQ j
 
 Treat Extreme/Savage, relic grinds, sightseeing completion, tribal reputation grinds, and old glamour farms as elective challenges. Do not encourage clearing every yellow or blue quest simply because it exists.
 
+## Deferred content — Let's come back to that
+
+When Aaron asks to save a quest or system for later, record it in `BACKLOG.md` rather than recommending he accept it in-game. Distinguish deferred/unaccepted content from active or completed content. Include the quest name, unlock, reason to revisit, and suggested revisit window; add pickup details when verified. Review relevant entries at admin breaks and when Aaron asks what to do next. Mark entries completed or dropped when explicitly requested or during authorized progression check-ins. Do not automatically defer worthwhile combat unlocks or write to GitHub without authorization; an explicit request to come back to an item and track it authorizes a backlog entry.
+
 ## Admin breaks
 
 Aaron likes using gaps between patch arcs to do things like:
@@ -202,6 +208,7 @@ update the appropriate file in `astidwell/ffxiv-progression`:
 - Stable operating rule or project behavior → **`README.md`**
 - Progression, unlocks, duties, gear, housing, MSQ → **`PROGRESS.md`**
 - Job preferences, role opinions, favorites, playstyle → **`JOBS.md`**
+- Intentionally deferred quests and systems → **`BACKLOG.md`**
 
 Do **not** modify GitHub merely because Aaron casually mentions something. Only write to the repository when he asks to save, log, document, record, or update it.
 
