@@ -5,11 +5,11 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 ## Main Scenario
 
 - **Current era:** Post-Stormblood (4.x), after completing base Stormblood (4.0)
-- **Current MSQ:** `A Sultana's Duty` (post-Stormblood patch 4.1), reported 2026-11-17; completion not claimed.
-- **Last progression check-in:** 2026-11-17 (America/Chicago; exact message timestamp unavailable).
+- **Current MSQ:** 4.3 entry (Under the Moonlight), reported 2026-11-25 after `Rise of a New Sun`; exact next quest acceptance not confirmed.
+- **Last progression check-in:** 2026-11-25 (America/Chicago; exact message timestamp unavailable).
 - **Cumulative playtime:** **20 days, 20 hours, 18 minutes (500h 18m)**, screenshot 2026-11-14. **+13h 39m** logged in since 2026-11-10 (486h 39m); includes possible AFK, leveling and optional content.
 - **Last character/gear check-in:** 2026-11-17 — Reaper level 72, i365; Gunbreaker level 72, i400.
-- **Patch status:** Stormblood 4.0 complete; currently post-Stormblood 4.1 `A Sultana's Duty`.
+- **Patch status:** Stormblood 4.0–4.2 complete; entering 4.3.
 - **Base Heavensward (3.0):** Complete
 - **Dragonsong War resolution:** Complete
 - **Post-Heavensward:** Complete
@@ -20,8 +20,9 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 ### Completed
 
 - **Omega: Deltascape (O1–O4) normal:** Complete, reported 2026-11-10.
-- **Omega: Sigmascape (O5–O8):** Progressed through all four; Alphascape V2.0 is unlocked and queued, establishing Sigmascape chain progress (2026-11-14).
-- **Omega: Alphascape V1.0:** Progressed past; **Alphascape V2.0** queued on Reaper 2026-11-14, NOT yet confirmed cleared.
+- **Omega: Sigmascape and Alphascape normal:** Complete, confirmed 2026-11-17.
+- **Return to Ivalice and Shadow of Mhach:** All three raids in each series complete, confirmed 2026-11-17.
+- **Four Lords:** Hells' Lid, The Jade Stoa and The Swallow's Compass complete, confirmed 2026-11-25.
 
 - **Alexander normal raid series:** Complete
 - **Shisui of the Violet Tides:** Completed, reported 2026-10-24.
@@ -90,7 +91,7 @@ This file contains the current progression snapshot for **Violent Meditation**. 
 - **Log:** `PROGRESSION_LOG.md`, started 2026-10-22; timestamps use America/Chicago.
 - **Goal:** Catch up for Evercold in January 2027; calibrate the forecast from periodic check-ins.
 - **Baseline:** Kugane, offered MSQ `Where the Streets Are Paved with Koban`; GNB 65 / i270. No measured active-playtime rate yet.
-- **Latest checkpoint:** 2026-11-17 — `A Sultana's Duty`; Omega complete, all three Return to Ivalice alliance raids complete, all unlocked dungeons cleared; four Stormblood normal trials confirmed (Pool of Tribute, Emanation, Royal Menagerie, Great Hunt); RPR 72/i365 and GNB 72/i400. Last known playtime remains 500h 18m as of 2026-11-14.
+- **Latest checkpoint:** 2026-11-25 — entering 4.3; Hells' Lid, The Jade Stoa and The Swallow's Compass cleared. No new gear or playtime reading.
 - **Latest reaction:** Stormblood praised for cinematic presentation, though Heavensward is still slightly preferred overall; Deltascape cleared.
 
 ## Update Rules
@@ -127,3 +128,12 @@ Only write changes back to this file when Aaron explicitly asks to **save, log, 
 - **Playtime:** No new reading on this check-in; latest known 500h 18m (2026-11-14).
 
 - **2026-11-17 follow-up:** Aaron confirms all three Shadow of Mhach alliance raids completed: The Void Ark, The Weeping City of Mhach, and Dun Scaith. No longer an outstanding verification item.
+
+## 2026-11-25 — Patch 4.3 arrival and Four Lords clears
+
+- **Date:** 2026-11-25, America/Chicago; exact check-in time not recorded.
+- **MSQ:** `Rise of a New Sun` reported, then conversation established arrival at the 4.2/4.3 transition. Patch 4.3 (Under the Moonlight) is the current progression boundary; exact next quest acceptance not confirmed (`Gosetsu and Tsuyu` expected).
+- **Four Lords:** Hells' Lid, The Jade Stoa, and The Swallow's Compass explicitly confirmed cleared. Do not recommend these again as outstanding.
+- **Next combat priorities:** Continue 4.3 MSQ; Castrum Fluminis clear not yet reported. Next Four Lords installment is in 4.4 (`The Fire-bird Down Below` → Hells' Kier). Omega, Return to Ivalice and Shadow of Mhach remain complete.
+- **Other updates:** On 2026-11-19 Aaron reported returning to Scholar over Astrologian while Sage remains undergeared; no new levels or item levels supplied. No new cumulative playtime reading; retain 500h 18m as of 2026-11-14.
+- **Strategy:** No required optional-combat detour identified at this checkpoint; continue MSQ. Precious Reclamation remains deferred in BACKLOG.md.
