@@ -124,3 +124,12 @@ This chronological log tracks Aaron's reported progression toward catching up fo
 
 - Aaron explicitly confirmed all three Heavensward Shadow of Mhach alliance raids are complete: The Void Ark, The Weeping City of Mhach, and Dun Scaith.
 - This resolves the prior outstanding verification; no further Shadow of Mhach cleanup is needed.
+
+## 2026-11-25 — Patch 4.3 arrival and Four Lords clears
+
+- **Date:** 2026-11-25, America/Chicago; exact check-in time not recorded.
+- **MSQ:** `Rise of a New Sun` reported, then conversation established arrival at the 4.2/4.3 transition. Patch 4.3 (Under the Moonlight) is the current progression boundary; exact next quest acceptance not confirmed (`Gosetsu and Tsuyu` expected).
+- **Four Lords:** Hells' Lid, The Jade Stoa, and The Swallow's Compass explicitly confirmed cleared. Do not recommend these again as outstanding.
+- **Next combat priorities:** Continue 4.3 MSQ; Castrum Fluminis clear not yet reported. Next Four Lords installment is in 4.4 (`The Fire-bird Down Below` → Hells' Kier). Omega, Return to Ivalice and Shadow of Mhach remain complete.
+- **Other updates:** On 2026-11-19 Aaron reported returning to Scholar over Astrologian while Sage remains undergeared; no new levels or item levels supplied. No new cumulative playtime reading; retain 500h 18m as of 2026-11-14.
+- **Strategy:** No required optional-combat detour identified at this checkpoint; continue MSQ. Precious Reclamation remains deferred in BACKLOG.md.
